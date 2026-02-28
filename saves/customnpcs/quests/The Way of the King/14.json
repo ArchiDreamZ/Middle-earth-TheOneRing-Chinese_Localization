@@ -1,12 +1,12 @@
 {
-    "CompleterNpc": "Kathrine",
+    "CompleterNpc": "",
     "NextQuestId": 22,
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 5: Isengard",
+    "Title": "Part 6: Isengard",
     "Text": "萨茹曼袭击了洛汗人！
 但希奥顿会得到甘道夫和伊奥梅尔的帮助，所以我可以在这段时间对付萨茹曼。
 他所在的地区一定有重兵把守。
@@ -23,7 +23,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -33,7 +33,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1680052583016L,
+        "TimePast": 1722044675742L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,10 +41,21 @@
         "NpcMiscInv": [
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
     "CompleteText": "到了，欧尔桑克之巅，白袍巫师萨茹曼的巨塔！
 我应该当面告诉他，他已经回天乏术了！
 
 那是什么？一颗帕蓝提尔？我觉得我应该往里面瞧瞧！",
-    "NextQuestTitle": "Part 6: The white city",
+    "NextQuestTitle": "Part 7: The white city",
     "QuestLocation": "Saruman"
 }

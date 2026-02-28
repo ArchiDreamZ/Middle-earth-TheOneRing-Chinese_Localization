@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 279,
-                "Title": "我的名字是 @p。",
+                "Title": "我名叫 @p。",
                 "DialogColor": 16291596,
                 "OptionType": 1
             }
@@ -79,7 +79,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -91,8 +91,7 @@
     "DialogText": "晚上好啊，各位小主顾。有什么我可以效劳？
 
 您们要想歇脚，咱有舒舒服服的霍比特客房。
-给小人族办事从来是我的荣幸，敢问您是...？
-",
+给小人族办事从来是我的荣幸，敢问您是...？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -105,7 +104,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689637253526L,
+        "TimePast": 1698261030287L,
         "Time": 0L,
         "Subject": ""
     }

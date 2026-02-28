@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "谢谢你，再会!",
+                "Title": "谢谢你，再会！",
                 "DialogColor": 16647170,
                 "OptionType": 0
             }
@@ -50,9 +50,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "很高兴看到你安然无恙!
+    "DialogText": "很高兴看到你安然无恙！
 但是...你在说什么？一位死灵法师？那比我想象的还要糟糕，我必须马上去告诉甘道夫，免得为时已晚。
-谢谢你， @p!
+谢谢你， @p！
 你今天表现出极大的勇气，森林里的动物得救了。
 现在大家都恢复健康了，我不再需要这种特殊的饮品了，拿它作为对你努力的感谢！
 

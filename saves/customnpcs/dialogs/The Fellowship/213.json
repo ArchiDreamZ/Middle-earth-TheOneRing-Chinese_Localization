@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来！ (跟随者菜单)",
+                "Title": "跟我来！（跟随者菜单）",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "我想快速旅行到地图上的路径点。",
+                "Title": "我想快速旅行到地图上的一个路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -63,9 +63,19 @@
             "OptionSlot": 2,
             "Option": {
                 "DialogCommand": "",
+                "Dialog": 346,
+                "Title": "你能给我唱首歌吗？",
+                "DialogColor": 16633090,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 3,
+            "Option": {
+                "DialogCommand": "",
                 "Dialog": -1,
                 "Title": "也许以后，再会！",
-                "DialogColor": 16714241,
+                "DialogColor": 16521475,
                 "OptionType": 0
             }
         }
@@ -79,7 +89,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -112,7 +122,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690135239451L,
+        "TimePast": 1707712522959L,
         "Time": 0L,
         "Subject": ""
     }

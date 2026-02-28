@@ -1,5 +1,6 @@
 {
     "AvailabilityQuestId": -1,
+    "DialogAlignment": 0b,
     "DialogHideNPC": 0b,
     "AvailabilityQuest2": 0,
     "AvailabilityQuest3": 0,
@@ -45,7 +46,7 @@
                 "DialogCommand": "",
                 "Dialog": 77,
                 "Title": "告诉我更多关于任务的事情",
-                "DialogColor": 523558,
+                "DialogColor": 16556803,
                 "OptionType": 1
             }
         },
@@ -55,7 +56,7 @@
                 "DialogCommand": "",
                 "Dialog": 226,
                 "Title": "告诉我更多关于中洲的事情",
-                "DialogColor": 523558,
+                "DialogColor": 16556803,
                 "OptionType": 1
             }
         },
@@ -65,7 +66,7 @@
                 "DialogCommand": "",
                 "Dialog": 79,
                 "Title": "告诉我更多关于英雄的事情",
-                "DialogColor": 523558,
+                "DialogColor": 16556803,
                 "OptionType": 1
             }
         },
@@ -83,9 +84,19 @@
             "OptionSlot": 4,
             "Option": {
                 "DialogCommand": "",
+                "Dialog": 323,
+                "Title": "开始你的旅程！",
+                "DialogColor": 3145231,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 5,
+            "Option": {
+                "DialogCommand": "",
                 "Dialog": -1,
                 "Title": "再会",
-                "DialogColor": 16712192,
+                "DialogColor": 16388360,
                 "OptionType": 0
             }
         }
@@ -99,7 +110,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 22,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -108,7 +119,7 @@
     "TextWidth": 300,
     "DialogTitle": "Frodo Start",
     "PreviousBlocks": 1b,
-    "DialogText": "你好， @p ，欢迎来到中洲！（版本3.3）
+    "DialogText": "你好， @p ，欢迎来到中洲！（版本3.6）
 
 这里是通往冒险世界的起点和大门！
 从这里开始，你可以选择不同的故事来开始你的旅程！
@@ -135,7 +146,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690140172782L,
+        "TimePast": 1757639326373L,
         "Time": 0L,
         "Subject": ""
     }

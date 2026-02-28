@@ -1,13 +1,50 @@
 {
-    "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
+    "DialogHideNPC": 0b,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "RenderGradual": 0b,
+    "OptionOffsetX": 0,
+    "OptionOffsetY": 0,
+    "OptionFactions1": -1,
+    "TextOffsetX": 0,
+    "OptionFactions2": -1,
+    "TextOffsetY": 0,
+    "AvailabilityFaction2Id": -1,
+    "TitlePos": 0,
+    "OptionFaction1Points": 100,
+    "TitleColor": 14737632,
+    "DialogDisableEsc": 0b,
+    "ShowOptionLine": 1b,
+    "AvailabilityFaction": 0,
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "Color": 14737632,
+    "Images": [
+    ],
+    "NPCScale": 1.0f,
+    "TextSound": "minecraft:random.wood_click",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "TextPitch": 1.0f,
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "AvailabilityQuest3Id": -1,
+    "NPCOffsetY": 0,
+    "AvailabilityDialog3Id": -1,
+    "NPCOffsetX": 0,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogShowWheel": 0b,
     "Options": [
         {
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 136,
-                "Title": "我该怎么办? (支线任务开始)",
+                "Title": "我该怎么办？ (支线任务开始)",
                 "DialogColor": 15459842,
                 "OptionType": 1
             }
@@ -17,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 137,
-                "Title": "我找到了那块石头!",
+                "Title": "我找到了那块石头！",
                 "DialogColor": 1046573,
                 "OptionType": 1
             }
@@ -27,40 +64,31 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16126481,
                 "OptionType": 0
             }
         }
     ],
-    "DialogHideNPC": 0b,
+    "TextHeight": 400,
+    "OptionSpaceX": 0,
     "AvailabilityFactionStance": 0,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
-    "AvailabilityQuest3": 0,
-    "AvailabilityQuest4": 0,
-    "ModRev": 16,
+    "OptionSpaceY": 0,
+    "TitleOffsetY": 0,
+    "TitleOffsetX": 0,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
-    "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
-    "OptionFactions2": -1,
-    "AvailabilityFaction2Id": -1,
-    "OptionFaction1Points": 100,
-    "DialogDisableEsc": 0b,
-    "AvailabilityFaction": 0,
+    "DialogDarkScreen": 1b,
+    "TextWidth": 300,
     "DialogTitle": "bard6",
-    "AvailabilityDialog": 0,
-    "AvailabilityFaction2": 0,
-    "AvailabilityFactionId": -1,
-    "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "",
-    "AvailabilityDialogId": -1,
-    "OptionFaction2Points": 100,
-    "DialogText": "你好， @p!
+    "PreviousBlocks": 1b,
+    "DialogText": "你好， @p！
 如果我早知道你打算帮助梭林夺回孤山，我是不会帮助你的，这对长湖镇的居民来说太危险了.. 
 
 当恶龙史矛革苏醒时，火焰和死亡将笼罩着我们！
@@ -72,13 +100,9 @@
 
 嗯，我有个主意...你是一名顶尖盗贼，... 可以帮助我们吗？",
     "AvailabilityQuest4Id": -1,
-    "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
-    "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
-    "AvailabilityMinPlayerLevel": 0,
-    "DecreaseFaction2Points": 0b,
     "DialogMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -87,7 +111,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1666541732363L,
+        "TimePast": 1706301286219L,
         "Time": 0L,
         "Subject": ""
     }

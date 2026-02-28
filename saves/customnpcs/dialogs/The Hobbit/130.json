@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 132,
-                "Title": "你好，甘道夫，我能帮什么忙吗? (支线任务开始)",
+                "Title": "你好，甘道夫，我能帮什么忙吗？ (支线任务开始)",
                 "DialogColor": 15328262,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16647170,
                 "OptionType": 0
             }
@@ -50,7 +50,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我很高兴在这里看到你， @p !
+    "DialogText": "我很高兴在这里看到你， @p ！
 我们需要你的帮助！一场伟大的战斗即将到来。
 一场涉及五支军队的战斗，
 奥克军队正从贡达巴德进攻过来，我们必须在这里阻止他们。

@@ -1,5 +1,6 @@
 {
     "AvailabilityQuestId": -1,
+    "DialogAlignment": 0b,
     "DialogHideNPC": 0b,
     "AvailabilityQuest2": 0,
     "AvailabilityQuest3": 0,
@@ -69,7 +70,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 22,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -89,15 +90,24 @@
     "AvailabilityDialog2Id": -1,
     "AvailabilityDialog4Id": -1,
     "DialogMail": {
-        "Sender": "",
+        "Sender": "Forsaken Inn Guard",
         "BeenRead": 0b,
         "Message": {
+            "pages": [
+                "Welcome to Bree.
+
+We are in need of a warrior who can help us at the Forsaken Inn. The journey will bring you to Fornost. So come prepared.
+
+You can find it outside the town in the east.
+Speak to the guard there for",
+                "more information."
+            ]
         },
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689234420042L,
+        "TimePast": 1722463738481L,
         "Time": 0L,
-        "Subject": ""
+        "Subject": "Mercenary Job"
     }
 }

@@ -1,0 +1,60 @@
+{
+    "CompleterNpc": "",
+    "NextQuestId": 97,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Help the Fishers",
+    "Text": "I have to kill the wolves in the cave at Michel Delving and free the Fishermans.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 22,
+    "Type": 2,
+    "CustomTargetType": "noppes.npcs.entity.EntityCustomNpc",
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1722143235096L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 1,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 5,
+            "Slot": "Hungry Wolf"
+        }
+    ],
+    "TargetType": 0,
+    "CompleteText": "I have killed all the white wolves. The fishermans are safe now.
+
+I should return to the Mayor and report this.",
+    "NextQuestTitle": "Return to Will Whitfoot"
+}

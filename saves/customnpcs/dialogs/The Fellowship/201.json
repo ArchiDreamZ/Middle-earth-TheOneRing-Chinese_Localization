@@ -25,6 +25,7 @@
     ],
     "NPCScale": 1.0f,
     "TextSound": "minecraft:random.wood_click",
+    "DialogSound": "soundeffects:The One Ring 2",
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
@@ -79,7 +80,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -88,7 +89,7 @@
     "TextWidth": 300,
     "DialogTitle": "gandalf ring",
     "PreviousBlocks": 1b,
-    "DialogText": "它是伟大的力量之戒之一, 其中3枚被交予精灵，7枚给了矮人诸侯，另有9枚被赠给人类一族。
+    "DialogText": "它是伟大的力量之戒之一，其中3枚被交予精灵，7枚给了矮人诸侯，另有9枚被赠给人类一族。
 但他们悉数受了蒙蔽。在阴影笼罩的魔多之地，黑暗魔君索伦铸造了另一枚戒指。
 
 第二纪元时，精灵和人类的伟大联盟发动战争对抗他，并打败了他，至少我们当时是这样认为的。
@@ -112,7 +113,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689233334193L,
+        "TimePast": 1707717080904L,
         "Time": 0L,
         "Subject": ""
     }

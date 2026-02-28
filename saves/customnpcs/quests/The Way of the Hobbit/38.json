@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Tanal",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -20,7 +20,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -30,13 +30,24 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1668423372759L,
+        "TimePast": 1722044523544L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "CompleteText": "终于走出树林了！
 这里是森林精灵王国的中心和瑟兰杜伊国王的殿堂。

@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 79549 64 53913",
                 "Dialog": -1,
-                "Title": "是!",
+                "Title": "是！",
                 "DialogColor": 2291745,
                 "OptionType": 4
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "否!",
+                "Title": "否！",
                 "DialogColor": 16128014,
                 "OptionType": 0
             }
@@ -70,7 +70,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -92,7 +92,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689235760302L,
+        "TimePast": 1709631502196L,
         "Time": 0L,
         "Subject": ""
     }

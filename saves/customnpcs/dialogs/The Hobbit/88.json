@@ -1,63 +1,94 @@
 {
-    "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
-    "Options": [
-        {
-            "OptionSlot": 0,
-            "Option": {
-                "DialogCommand": "",
-                "Dialog": -1,
-                "Title": "{找到一个出口!}",
-                "DialogColor": 16581634,
-                "OptionType": 0
-            }
-        }
-    ],
+    "DialogAlignment": 0b,
     "DialogHideNPC": 0b,
-    "AvailabilityFactionStance": 0,
-    "AvailabilityQuest": 0,
-    "AvailabilityDialog4": 0,
-    "AvailabilityDialog3": 0,
     "AvailabilityQuest2": 0,
     "AvailabilityQuest3": 0,
     "AvailabilityQuest4": 0,
-    "ModRev": 16,
-    "DecreaseFaction1Points": 0b,
-    "DialogQuest": -1,
-    "AvailabilityDialog2": 0,
+    "RenderGradual": 0b,
+    "OptionOffsetX": 0,
+    "OptionOffsetY": 0,
     "OptionFactions1": -1,
-    "AvailabilityDayTime": 0,
+    "TextOffsetX": 0,
     "OptionFactions2": -1,
+    "TextOffsetY": 0,
     "AvailabilityFaction2Id": -1,
-    "OptionFaction1Points": 100,
+    "TitlePos": 0,
+    "OptionFaction1Points": 10,
+    "TitleColor": 14737632,
     "DialogDisableEsc": 0b,
+    "ShowOptionLine": 1b,
     "AvailabilityFaction": 0,
-    "DialogTitle": "König der Orks2",
     "AvailabilityDialog": 0,
     "AvailabilityFaction2": 0,
+    "Color": 14737632,
+    "Images": [
+    ],
+    "NPCScale": 1.0f,
+    "TextSound": "minecraft:random.wood_click",
     "DialogSound": "lotr:halfTroll.hurt",
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
+    "TextPitch": 1.0f,
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "这些洞穴没有出口！！
-
-砍死他们！杀了他们！
-
-把他们杀尽！砍下他的头!
-
-拿下！！　他们！！！
-
-",
-    "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
-    "AvailabilityQuest2Id": -1,
-    "AvailabilityDialog2Id": -1,
+    "NPCOffsetY": 0,
     "AvailabilityDialog3Id": -1,
-    "AvailabilityDialog4Id": -1,
+    "NPCOffsetX": 0,
     "AvailabilityMinPlayerLevel": 0,
     "DecreaseFaction2Points": 0b,
+    "DialogShowWheel": 0b,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "/noppes faction @dp 5 subtract 10",
+                "Dialog": -1,
+                "Title": ">>与半兽人王战斗<<",
+                "DialogColor": 130047,
+                "OptionType": 4
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": ">>跳入水中<<",
+                "DialogColor": 130047,
+                "OptionType": 0
+            }
+        }
+    ],
+    "TextHeight": 400,
+    "OptionSpaceX": 0,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 0,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "OptionSpaceY": 0,
+    "TitleOffsetY": 0,
+    "TitleOffsetX": 0,
+    "ModRev": 22,
+    "DecreaseFaction1Points": 1b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "AvailabilityDayTime": 0,
+    "DialogDarkScreen": 1b,
+    "TextWidth": 300,
+    "DialogTitle": "König der Orks2",
+    "PreviousBlocks": 1b,
+    "DialogText": "这些洞穴没有出口！！
+
+（半兽人王尖叫着：）
+半兽人们！抽他们！打他们！杀了他们！
+全都给我杀了！卸了他们的脑袋！趁他们跳进水中跑掉之前！",
+    "AvailabilityQuest4Id": -1,
+    "AvailabilityQuest2Id": -1,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog4Id": -1,
     "DialogMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -66,7 +97,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1609768388808L,
+        "TimePast": 1737811160973L,
         "Time": 0L,
         "Subject": ""
     }

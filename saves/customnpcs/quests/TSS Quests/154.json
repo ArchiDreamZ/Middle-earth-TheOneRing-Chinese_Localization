@@ -1,0 +1,84 @@
+{
+    "CompleterNpc": "Lorgram",
+    "NextQuestId": 155,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 1b,
+    "Title": "Deliver Ceuci's Parcel.",
+    "Text": "I need to find Lorgram and give him the parcel from Ceuci.
+I should look for a camp or outpost in the west of West-Peak.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 22,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1736302873782L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 1b,
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 1b,
+                "id": "lotr:item.coin",
+                "Count": 2b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 4b,
+                "id": "minecraft:gold_nugget",
+                "Count": 5b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "customnpcs:npcSatchel",
+                "Count": 1b,
+                "tag": {
+                    "display": {
+                        "Lore": [
+                            "Parcel delivery for Lorgram."
+                        ],
+                        "Name": "Parcel"
+                    }
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Thank you friend, this parcel will keep me going through the end of the war, that is... if this war ever does end. Take this as payment for your troubles... and please tell my family I miss them very much, and that I will write as soon as I can be spared the time. ",
+    "NextQuestTitle": ""
+}

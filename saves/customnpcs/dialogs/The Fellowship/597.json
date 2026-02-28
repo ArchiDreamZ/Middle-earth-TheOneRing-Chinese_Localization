@@ -1,0 +1,101 @@
+{
+    "AvailabilityQuestId": 177,
+    "DialogAlignment": 0b,
+    "DialogHideNPC": 0b,
+    "AvailabilityQuest2": 4,
+    "AvailabilityQuest3": 4,
+    "AvailabilityQuest4": 4,
+    "RenderGradual": 0b,
+    "OptionOffsetX": 0,
+    "OptionOffsetY": 0,
+    "OptionFactions1": -1,
+    "TextOffsetX": 0,
+    "OptionFactions2": -1,
+    "TextOffsetY": 0,
+    "AvailabilityFaction2Id": -1,
+    "TitlePos": 0,
+    "OptionFaction1Points": 100,
+    "TitleColor": 14737632,
+    "DialogDisableEsc": 0b,
+    "ShowOptionLine": 1b,
+    "AvailabilityFaction": 0,
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "Color": 14737632,
+    "Images": [
+    ],
+    "NPCScale": 1.0f,
+    "TextSound": "minecraft:random.wood_click",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "/noppes dialog unread @dp 596",
+    "TextPitch": 1.0f,
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "AvailabilityQuest3Id": 174,
+    "NPCOffsetY": 0,
+    "AvailabilityDialog3Id": -1,
+    "NPCOffsetX": 0,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogShowWheel": 0b,
+    "Options": [
+        {
+            "OptionSlot": 0,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 468,
+                "Title": "Is there something else I can help with? [Restart]",
+                "DialogColor": 16364810,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "Farewell!",
+                "DialogColor": 16649218,
+                "OptionType": 0
+            }
+        }
+    ],
+    "TextHeight": 400,
+    "OptionSpaceX": 0,
+    "AvailabilityFactionStance": 0,
+    "AvailabilityQuest": 1,
+    "AvailabilityDialog4": 0,
+    "AvailabilityDialog3": 0,
+    "OptionSpaceY": 0,
+    "TitleOffsetY": 0,
+    "TitleOffsetX": 0,
+    "ModRev": 22,
+    "DecreaseFaction1Points": 0b,
+    "DialogQuest": -1,
+    "AvailabilityDialog2": 0,
+    "AvailabilityDayTime": 0,
+    "DialogDarkScreen": 1b,
+    "TextWidth": 300,
+    "DialogTitle": "Bilbo final",
+    "PreviousBlocks": 1b,
+    "DialogText": "Ah, splendid! The key and the papers are yours, @p my lad. You’ve done well. Keep it warm, keep it filled with laughter… and perhaps, fewer dwarves and fireworks than I had, eh? Farewell, until our next meeting. 
+
+Bilbo sings: ''The road goes ever on and on, down from the door where it began…''",
+    "AvailabilityQuest4Id": 176,
+    "AvailabilityQuest2Id": 173,
+    "AvailabilityDialog2Id": -1,
+    "AvailabilityDialog4Id": -1,
+    "DialogMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1759608196960L,
+        "Time": 0L,
+        "Subject": ""
+    }
+}

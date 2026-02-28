@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 203,
-                "Title": "这些戒灵是谁?",
+                "Title": "这些戒灵是谁？",
                 "DialogColor": 16243714,
                 "OptionType": 1
             }
@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "让我们一起去冒险吧!",
+                "Title": "让我们一起去冒险吧！",
                 "DialogColor": 16516869,
                 "OptionType": 0
             }
@@ -79,7 +79,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -105,7 +105,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689106969989L,
+        "TimePast": 1698323388582L,
         "Time": 0L,
         "Subject": ""
     }

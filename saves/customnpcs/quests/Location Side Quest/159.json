@@ -1,0 +1,75 @@
+{
+    "CompleterNpc": "",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "IgnoreNBT": 0b,
+    "Title": "The Lost Silmarils",
+    "Text": "I've found a Silmaril stone at Mount Gram. Tom Bombadil said, there is more to this story. I need to find all three Silmaril stones. When I have them, I should return to Tom Bombadil.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 22,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1737019561530L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 1b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 104,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "legendarium:silmaril_fire",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 1b,
+                "id": "legendarium:silmaril_sky",
+                "Count": 1b,
+                "Damage": 0s
+            },
+            {
+                "Slot": 2b,
+                "id": "legendarium:silmaril_sea",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "LeaveItems": 1b,
+    "CompleteText": "I have all three Silmaril stones. I should return to Tom Bombadil in the Shire.",
+    "NextQuestTitle": ""
+}

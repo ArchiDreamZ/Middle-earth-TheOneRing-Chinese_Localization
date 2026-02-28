@@ -1,0 +1,71 @@
+{
+    "CompleterNpc": "Bilbo",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 0,
+    "IgnoreNBT": 1b,
+    "Title": "Lobelia has stolen plates",
+    "Text": "Lobelia has stolen Bilbo's dinner plates. I need to bring them back to him. I should search for him at Bagend.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 22,
+    "Type": 0,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1722143212843L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "IgnoreDamage": 1b,
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "Items": {
+        "NpcMiscInv": [
+            {
+                "Slot": 0b,
+                "id": "BiblioCraft:BiblioStuffs",
+                "Count": 3b,
+                "tag": {
+                    "display": {
+                        "Name": "Bilbo's Dinner Plate"
+                    }
+                },
+                "Damage": 2s
+            }
+        ]
+    },
+    "LeaveItems": 0b,
+    "CompleteText": "Bilbo has his dinner plates back, and he looks very happy about that.
+
+>>( You have unlocked a new dialog option )<<
+",
+    "NextQuestTitle": ""
+}

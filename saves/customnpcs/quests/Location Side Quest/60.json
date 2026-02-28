@@ -1,14 +1,14 @@
 {
-    "CompleterNpc": "Eomer",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Easmark",
-    "Text": "在与萨茹曼的战争中，马克的元帅伊奥梅尔需要帮助。
-他要我与他并肩作战，解放东马克（东埃姆内特）。
+    "Title": "Eastmark",
+    "Text": "马克的元帅伊奥梅尔在对抗萨茹曼的战争中需要帮助。
+他请求我与他并肩作战，解放东马克（东埃姆内特）。
 
-我将在旧瞭望塔的底部与他会面。
+我会在旧瞭望塔底下和他会面。
 ",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -20,14 +20,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 15,
-            "Slot": "Uruk Captain"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -36,7 +31,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1671295023363L,
+        "TimePast": 1722044332645L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,9 +39,27 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "我们成功了，所有的乌鲁克头目都死了，这里又恢复了生机！
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 0,
+        "ExecuteCommand": 0,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 0
+    },
+    "QuestKills": [
+        {
+            "Value": 15,
+            "Slot": "Uruk Captain"
+        }
+    ],
+    "TargetType": 0,
+    "CompleteText": "我们成功了！所有乌鲁克首领都被干掉了，这一带终于安全了！
 
-在这场与艾森加德的战争中，洛汗人民看到了一丝希望！
+在这对抗艾森加德的战争中，总算给洛汗的人民带来了一丝希望！
 我应该继续我的旅程，看看如何能为中洲的人民提供更多帮助。",
     "NextQuestTitle": ""
 }

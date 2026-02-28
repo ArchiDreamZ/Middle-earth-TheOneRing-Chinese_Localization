@@ -1,12 +1,12 @@
 {
-    "CompleterNpc": "Aragorn",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 1: Merry and Pippin",
+    "Title": "Part 1: The Fangorn Forest",
     "Text": "我们已经决定不让梅里和皮平忍受折磨和死亡！
 
 阿拉贡和我追踪乌鲁克人到了洛汗！
@@ -22,7 +22,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -32,13 +32,24 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673376126017L,
+        "TimePast": 1737247691361L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "CompleteText": "当我沿着小路前行时，来到了一座山上。
 强烈的亮光刺得我睁不开眼！！

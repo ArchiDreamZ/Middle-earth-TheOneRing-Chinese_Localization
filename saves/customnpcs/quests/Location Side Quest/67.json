@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Tom Bombadil",
+    "CompleterNpc": "",
     "NextQuestId": 68,
     "RandomReward": 0b,
     "QuestRepeat": 1,
@@ -19,14 +19,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 1,
-            "Slot": "Uhlug"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -35,14 +30,38 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673459540151L,
+        "TimePast": 1737240223320L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
+            {
+                "Slot": 4b,
+                "id": "legendarium:silmaril_sky",
+                "Count": 1b,
+                "Damage": 0s
+            }
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 1,
+            "Slot": "Uhlug"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "我已经杀死了奥克头目，他掉下了一块看起来很重要的石头，我应该把它带给柳谷镇的汤姆邦巴迪尔。 ",
     "NextQuestTitle": ""
 }

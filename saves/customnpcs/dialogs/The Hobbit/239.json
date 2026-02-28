@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再见。 再会!",
+                "Title": "回头见， 再会！",
                 "DialogColor": 16649218,
                 "OptionType": 0
             }
@@ -44,7 +44,7 @@
     "DialogText": "在贡达巴德入口处与我们会合！
 从这里往西走。 
 
-全副武装准备战斗吧，我担心那里会发生不好的事情!",
+全副武装准备战斗吧，我担心那里会发生不好的事情！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

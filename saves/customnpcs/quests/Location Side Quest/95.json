@@ -1,0 +1,62 @@
+{
+    "CompleterNpc": "",
+    "NextQuestId": 96,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "The Old Forest",
+    "Text": "The gate guard at the Buckland Hay Gate, asked me to help him with a problem. Some trees of the old forest are cursed and attacked the Hobbits. 
+
+I should kill 10 of them. They came from the east and are probably close by and dangerous.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 22,
+    "Type": 2,
+    "CustomTargetType": "noppes.npcs.entity.EntityCustomNpc",
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1723985443045L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 10,
+            "Slot": "Evil Huorn"
+        }
+    ],
+    "TargetType": 0,
+    "CompleteText": "The gate guard at the Buckland Hay Gate, asked me to help him with a problem. Some trees of the old forest are cursed and attacked the Hobbits.
+
+I did defeat 10 of them and should return to the Mayor Saradoc Brandybuck in the Brandy Hall.",
+    "NextQuestTitle": "Return to Saradoc"
+}

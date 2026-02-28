@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 239,
-                "Title": "我能为你做些什么? (支线任务开始)",
+                "Title": "我能为你做些什么？ (支线任务开始)",
                 "DialogColor": 192509,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "也许以后。 再会!",
+                "Title": "也许以后。 再会！",
                 "DialogColor": 16714240,
                 "OptionType": 0
             }

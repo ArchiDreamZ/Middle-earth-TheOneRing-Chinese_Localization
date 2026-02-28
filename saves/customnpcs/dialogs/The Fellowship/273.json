@@ -1,5 +1,6 @@
 {
     "AvailabilityQuestId": -1,
+    "DialogAlignment": 0b,
     "DialogHideNPC": 0b,
     "AvailabilityQuest2": 0,
     "AvailabilityQuest3": 0,
@@ -43,20 +44,20 @@
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "/give",
-                "Dialog": -1,
-                "Title": "跟我来！ (跟随者菜单)",
-                "DialogColor": 124415,
-                "OptionType": 3
+                "Dialog": 518,
+                "Title": "好吧，山姆，你可以跟我来。",
+                "DialogColor": 16567301,
+                "OptionType": 1
             }
         },
         {
             "OptionSlot": 1,
             "Option": {
                 "DialogCommand": "/give @dp 5171",
-                "Dialog": -1,
-                "Title": "我想快速旅行到地图上的路径点。",
-                "DialogColor": 15339254,
-                "OptionType": 4
+                "Dialog": 519,
+                "Title": "你还是回夏尔去吧，山姆。这趟旅程太危险了。",
+                "DialogColor": 16567301,
+                "OptionType": 1
             }
         },
         {
@@ -64,7 +65,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "也许以后，再会！",
+                "Title": "再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -79,21 +80,18 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 22,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
     "AvailabilityDayTime": 0,
     "DialogDarkScreen": 1b,
     "TextWidth": 300,
-    "DialogTitle": "Sam rivendell follow",
+    "DialogTitle": "Sam rivendell council",
     "PreviousBlocks": 1b,
-    "DialogText": "终于见到精灵了！这个地方可真漂亮！
-接下来我们去哪里？
-回家吗？
+    "DialogText": "我偷听会议？哎哟！我真不是有意偷听的，真的！我就是……就是有点好奇，你瞧！@p先生……我是说，您……您这是要去冒天大的险，我可不能让您一个人去！
 
-顺便一提，比尔博在楼上等你。
->>(你可以带上山姆作为你的同伴)<<",
+刚才听到的够多了，现在总算知道是怎么回事。那个，呃……我得跟您一块儿去！您总得有人照顾着，得有人给您准备吃的什么的。出远门可得多加小心，尤其那枚戒指还惹出这么多麻烦来！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -106,7 +104,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689233763742L,
+        "TimePast": 1735597436621L,
         "Time": 0L,
         "Subject": ""
     }

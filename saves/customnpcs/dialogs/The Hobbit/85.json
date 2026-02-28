@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 86,
-                "Title": "这是什么游戏?  {任务开始}",
+                "Title": "这是什么游戏？  {任务开始}",
                 "DialogColor": 588582,
                 "OptionType": 1
             }
@@ -51,7 +51,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "我们没有跟他说过话! !
+    "DialogText": "我们没有跟他说过话！ ！
 
 但我们有我的宝贝，我们有...",
     "AvailabilityQuest4Id": -1,

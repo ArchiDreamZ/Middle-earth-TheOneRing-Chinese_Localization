@@ -25,6 +25,7 @@
     ],
     "NPCScale": 1.0f,
     "TextSound": "minecraft:random.wood_click",
+    "DialogSound": "soundeffects:Gollums Cave 1",
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
@@ -54,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 274,
-                "Title": "跟我来!",
+                "Title": "跟我来！",
                 "DialogColor": 258044,
                 "OptionType": 3
             }
@@ -79,7 +80,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -88,18 +89,18 @@
     "TextWidth": 300,
     "DialogTitle": "Gollum1",
     "PreviousBlocks": 1b,
-    "DialogText": "咕噜！ 我的宝贝？！
+    "DialogText": "咕 噜 ！ 我的宝贝？！
 这是什么？ @p 它想伤害我们吗？！
 
-别伤害我们！当你对我们友善时，我们也会对你好的... 宝贝... 不是吗？咕噜... 咕噜！！
-是什么东西在它的口袋里？ 谜语 bäääh 不不...没有时间去做这些了...巴金斯耍了我们，你不能这么做！
+别伤害我们！谁对我们好，我们也对谁好…宝贝…不是吗？咕噜…咕噜！！
+是什么东西在它的口袋里？ 谜语 bäääh 不不…没有时间去做这些了…巴金斯耍了我们，你不能这么做！
 
-恶心下贱的霍比特人，他们从我们这儿偷的！！！ 但是 @p 是我的新主人。
+肮脏的小霍比特人，从我们这儿把它偷了！！！ 但是 @p 是我的新主人。
 
 咕噜 咕噜 你根本没有朋友，没人喜欢你！！
-这不是真的！！这个主人就是我的新朋友...咕噜！！
+这不是真的！！这个主人就是我的新朋友…咕噜！！
 
->>(咕噜的刷怪蛋需要消耗1个生鱼，并且需要20个鱼来驯服它，按住Shift右键点击驯服的咕噜可以打开他的物品栏)<<
+>>(咕噜的刷怪蛋需要花费1条生鱼，并且需要20条鱼来驯服它，按住Shift并右键点击驯服的咕噜可以打开它的物品栏)<<
 ",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
@@ -113,7 +114,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689236153552L,
+        "TimePast": 1709631419195L,
         "Time": 0L,
         "Subject": ""
     }

@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Noppes",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 1,
@@ -18,14 +18,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 1,
-            "Slot": "Lurtz"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -34,7 +29,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667273583126L,
+        "TimePast": 1722044816592L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,6 +37,24 @@
         "NpcMiscInv": [
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 1,
+            "Slot": "Lurtz"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "我猎杀了乌鲁克族的首领路尔兹！
 同伴们安全了！
 

@@ -1,73 +1,101 @@
 {
-    "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
+    "DialogHideNPC": 0b,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "RenderGradual": 0b,
+    "OptionOffsetX": 0,
+    "OptionOffsetY": 0,
+    "OptionFactions1": -1,
+    "TextOffsetX": 0,
+    "OptionFactions2": -1,
+    "TextOffsetY": 0,
+    "AvailabilityFaction2Id": -1,
+    "TitlePos": 0,
+    "OptionFaction1Points": 100,
+    "TitleColor": 14737632,
+    "DialogDisableEsc": 0b,
+    "ShowOptionLine": 1b,
+    "AvailabilityFaction": 0,
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "Color": 14737632,
+    "Images": [
+    ],
+    "NPCScale": 1.0f,
+    "TextSound": "minecraft:random.wood_click",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "TextPitch": 1.0f,
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "AvailabilityQuest3Id": -1,
+    "NPCOffsetY": 0,
+    "AvailabilityDialog3Id": -1,
+    "NPCOffsetX": 0,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogShowWheel": 0b,
     "Options": [
         {
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
-                "Dialog": 109,
-                "Title": "你好，我本来要在这里见甘道夫的，你看到他了吗？",
-                "DialogColor": 14737632,
-                "OptionType": 1
+                "Dialog": -1,
+                "Title": "跟我来！（跟随者菜单）",
+                "DialogColor": 195069,
+                "OptionType": 3
             }
         },
         {
             "OptionSlot": 1,
             "Option": {
+                "DialogCommand": "/give @dp 5171",
+                "Dialog": -1,
+                "Title": "我想快速旅行到地图上的一个路径点。",
+                "DialogColor": 15009531,
+                "OptionType": 4
+            }
+        },
+        {
+            "OptionSlot": 2,
+            "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "我得走了。再会！",
-                "DialogColor": 16518661,
+                "Title": "再会！",
+                "DialogColor": 16649218,
                 "OptionType": 0
             }
         }
     ],
-    "DialogHideNPC": 0b,
+    "TextHeight": 400,
+    "OptionSpaceX": 0,
     "AvailabilityFactionStance": 0,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
-    "AvailabilityQuest3": 0,
-    "AvailabilityQuest4": 0,
-    "ModRev": 16,
+    "OptionSpaceY": 0,
+    "TitleOffsetY": 0,
+    "TitleOffsetX": 0,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
-    "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
-    "OptionFactions2": -1,
-    "AvailabilityFaction2Id": -1,
-    "OptionFaction1Points": 100,
-    "DialogDisableEsc": 0b,
-    "AvailabilityFaction": 0,
-    "DialogTitle": "Eowyn talk",
-    "AvailabilityDialog": 0,
-    "AvailabilityFaction2": 0,
-    "AvailabilityFactionId": -1,
-    "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "",
-    "AvailabilityDialogId": -1,
-    "OptionFaction2Points": 100,
-    "DialogText": "欢迎来到骠骑之国， @p ， 我的名字是伊奥温。
-一名洛汗的执盾女士！
-埃多拉斯是我的家。
-我很担心我的叔叔希奥顿国王。
-
-他现在在海尔姆深谷，那是我们祖先的宏伟要塞。
-他负责那里的防守，一场大战即将来临...
-但我不畏惧死亡！
-我要为我爱的人而战！
-为了希奥顿！为了洛汗！",
+    "DialogDarkScreen": 1b,
+    "TextWidth": 300,
+    "DialogTitle": "eowyn edoras follower",
+    "PreviousBlocks": 1b,
+    "DialogText": "你好啊 @p，欢迎来到埃多拉斯！
+你治愈了我们的国王，为洛汗的民众立下大功。
+我愿与你一同上阵，这是莫大的荣幸。我是执盾女士，武艺娴熟。
+艾森加德必须为此付出代价！",
     "AvailabilityQuest4Id": -1,
-    "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
-    "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
-    "AvailabilityMinPlayerLevel": 0,
-    "DecreaseFaction2Points": 0b,
     "DialogMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -76,7 +104,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673272309828L,
+        "TimePast": 1707605013651L,
         "Time": 0L,
         "Subject": ""
     }

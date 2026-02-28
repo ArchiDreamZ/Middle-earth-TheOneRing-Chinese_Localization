@@ -1,6 +1,43 @@
 {
-    "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
+    "DialogHideNPC": 0b,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "RenderGradual": 0b,
+    "OptionOffsetX": 0,
+    "OptionOffsetY": 0,
+    "OptionFactions1": -1,
+    "TextOffsetX": 0,
+    "OptionFactions2": -1,
+    "TextOffsetY": 0,
+    "AvailabilityFaction2Id": -1,
+    "TitlePos": 0,
+    "OptionFaction1Points": 100,
+    "TitleColor": 14737632,
+    "DialogDisableEsc": 0b,
+    "ShowOptionLine": 1b,
+    "AvailabilityFaction": 0,
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "Color": 14737632,
+    "Images": [
+    ],
+    "NPCScale": 1.0f,
+    "TextSound": "minecraft:random.wood_click",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "TextPitch": 1.0f,
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "AvailabilityQuest3Id": -1,
+    "NPCOffsetY": 0,
+    "AvailabilityDialog3Id": -1,
+    "NPCOffsetX": 0,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogShowWheel": 0b,
     "Options": [
         {
             "OptionSlot": 0,
@@ -23,54 +60,38 @@
             }
         }
     ],
-    "DialogHideNPC": 0b,
+    "TextHeight": 400,
+    "OptionSpaceX": 0,
     "AvailabilityFactionStance": 0,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
-    "AvailabilityQuest3": 0,
-    "AvailabilityQuest4": 0,
-    "ModRev": 16,
+    "OptionSpaceY": 0,
+    "TitleOffsetY": 0,
+    "TitleOffsetX": 0,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
-    "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
-    "OptionFactions2": -1,
-    "AvailabilityFaction2Id": -1,
-    "OptionFaction1Points": 100,
-    "DialogDisableEsc": 0b,
-    "AvailabilityFaction": 0,
+    "DialogDarkScreen": 1b,
+    "TextWidth": 300,
     "DialogTitle": "Eomer",
-    "AvailabilityDialog": 0,
-    "AvailabilityFaction2": 0,
-    "AvailabilityFactionId": -1,
-    "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "",
-    "AvailabilityDialogId": -1,
-    "OptionFaction2Points": 100,
-    "DialogText": "你好， @p ， 欢迎来到洛汗！
-我是伊奥梅尔，里德马克的元帅！国王是我的叔叔。
+    "PreviousBlocks": 1b,
+    "DialogText": "你好 @p ， 欢迎来到洛汗！
+我是伊奥梅尔，里德马克的元帅！国王是我的舅父。洛汗拥有中洲最快的马匹，从我们马厩挑一匹吧。
 
-萨茹曼将为他的背叛付出代价！我现在将和我那忠诚的骑士一同前往海尔姆深谷。
-甘道夫告诉我他将在那里等我！我并不怀疑霍比特人的心，只是他的胳膊太短。
-洛汗拥有中洲最快的马匹。从我们的马厩里选一匹吧，你会需要它的。
-让我们一同追捕奥克吧！
+看到上面那座国王的金殿了吗？
+它俯瞰着整个埃多拉斯，乃至我们先祖的陵群。
+想进金殿的话，去找卫队长哈玛。
+萨茹曼毒害了国王，我敢打赌这事儿跟格里马脱不了干系。
+真希望他能早日痊愈。
 
-你看到的是国王的金色大厅！
-它俯瞰着整个埃多拉斯，甚至能看到我们先祖的坟冢。
-和伊奥温交谈，她会告诉你更多。
-我必须离开了。为了希奥顿国王！
-但请先等一下...如果你有时间的话，我需要你的帮助。",
+在你动身前，要是你有空，我这儿或许有件事需要你帮忙。",
     "AvailabilityQuest4Id": -1,
-    "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
-    "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
-    "AvailabilityMinPlayerLevel": 0,
-    "DecreaseFaction2Points": 0b,
     "DialogMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -79,7 +100,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1668877248018L,
+        "TimePast": 1698153368504L,
         "Time": 0L,
         "Subject": ""
     }

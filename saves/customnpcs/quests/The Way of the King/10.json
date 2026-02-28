@@ -1,13 +1,14 @@
 {
-    "CompleterNpc": "Merry",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 3: Helms Deep",
-    "Text": "我四处打听了一下，看来海尔姆深谷是我的下一个目的地！
+    "Title": "Part 4: Helms Deep",
+    "Text": "看来海尔姆深谷就是我的下一个目的地！
+我们得赶紧召集人马，帮希奥顿王守住那里！
 我希望我能及时赶到那里！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -19,7 +20,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -29,13 +30,24 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673460197858L,
+        "TimePast": 1722044665043L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "CompleteText": "战斗已经打响了！
 成千上万的奥克包围了堡垒！

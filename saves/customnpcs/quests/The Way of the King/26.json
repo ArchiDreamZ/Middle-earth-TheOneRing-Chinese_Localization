@@ -1,12 +1,12 @@
 {
-    "CompleterNpc": "Théoden",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 7: The Beacon",
+    "Title": "Part 8: The Beacon",
     "Text": "甘道夫要我点亮米那斯提力斯的烽火台，好让洛汗人前来救援！
 
 它位于城堡后面的山上！",
@@ -20,7 +20,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -30,13 +30,24 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1680051786216L,
+        "TimePast": 1737247892160L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "CompleteText": "烽火台在燃烧！
 我照甘道夫说的那样点燃了它们！

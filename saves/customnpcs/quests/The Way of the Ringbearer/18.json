@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Théoden",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -9,12 +9,12 @@
     "Title": "Part 11: The Road to Mordor",
     "Text": "穿越欧斯吉利亚斯的战斗并不容易！
 
-奥克涌入了东岸...
+奥克涌入了东岸…
 
-恐怕我得快点了...
-东方某处必定有一条通向古老的魔古尔山谷的路...
+恐怕我得快点了…
+东方某处必定有一条通向古老的魔古尔山谷的路…
 
-...虽然不安全...但我别无选择！",
+…虽然不安全…但我别无选择！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -25,7 +25,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -35,7 +35,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1683152342208L,
+        "TimePast": 1736556494067L,
         "Time": 0L,
         "Subject": ""
     },
@@ -43,12 +43,23 @@
         "NpcMiscInv": [
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
     "CompleteText": "我找到了！魔古尔山谷！
 
 米那斯伊希尔古城曾经属于刚铎，后来被安格玛巫王征服。
 
 据咕噜说，这山里有一条通往魔多的秘密楼梯！
-我能信任他吗？...",
+我能信任他吗？…",
     "NextQuestTitle": "",
     "QuestLocation": "Minas Morgul"
 }

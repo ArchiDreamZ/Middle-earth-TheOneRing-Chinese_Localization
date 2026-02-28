@@ -45,8 +45,28 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
-                "DialogColor": 16586754,
+                "Title": "跟我来！（跟随者菜单）",
+                "DialogColor": 1503475,
+                "OptionType": 3
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "/give @dp 5171",
+                "Dialog": -1,
+                "Title": "我想快速旅行到地图上的一个路径点。",
+                "DialogColor": 15339254,
+                "OptionType": 4
+            }
+        },
+        {
+            "OptionSlot": 2,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
+                "Title": "再会！",
+                "DialogColor": 16453382,
                 "OptionType": 0
             }
         }
@@ -60,7 +80,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -69,18 +89,18 @@
     "TextWidth": 300,
     "DialogTitle": "Gloin",
     "PreviousBlocks": 1b,
-    "DialogText": "哈哈！看看我们这里有谁来了！难道这位就是我们的盗贼大师 @p ?
+    "DialogText": "哈哈！看看我们这里有谁来了！难道这位就是我们的盗贼大师 @p ？
 
 我叫格罗因，曾经在墨瑞亚大门前与梭林并肩作战，对抗阿佐格的奥克军队。
 他是我们远征队的领导者.. 看起来他离开了，他几乎无法忍受和精灵们在一起.. 
 
 他对精灵们非常愤怒，因为在那个时候他们未能帮助我们。
 
-欧因是我的兄弟，他也将和我们一起前往。我不得不离开我心爱的妻子和小儿子吉姆利在家，希望他们一切安好。
+欧因是我的兄弟。我不得不离开我心爱的妻子和小儿子吉姆利在家，希望他们一切安好。
 
 跟巫师谈谈，他知道该怎么做。
 
-很快我们会重新夺回孤山！！
+很快我们会重新夺回埃瑞博！！
 
 ",
     "AvailabilityQuest4Id": -1,
@@ -95,7 +115,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690136153451L,
+        "TimePast": 1706231833060L,
         "Time": 0L,
         "Subject": ""
     }

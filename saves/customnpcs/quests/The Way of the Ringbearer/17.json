@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Frodo",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -7,9 +7,9 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 15: Destroy The One Ring!",
-    "Text": "至尊戒，驭众戒...
-至尊戒，寻众戒...
-魔戒至尊引众戒...
+    "Text": "至尊戒，驭众戒…
+至尊戒，寻众戒…
+魔戒至尊引众戒…
 禁锢众戒黑暗中！
 
 将至尊魔戒扔到末日火山的熔岩中！
@@ -26,29 +26,52 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
-        "Sender": "",
+        "Sender": "Pacman",
         "BeenRead": 0b,
         "Message": {
+            "pages": [
+                "You did it! You destroyed the One Ring and saved Middle-earth.
+
+Thank you so much for playing the main campaign of this map.
+It's in active development and will be improved over time.
+
+If you have any",
+                "suggestions or questions about the project, feel free to visit us at our discord.
+
+Your
+Pacman and Team :-)"
+            ]
         },
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667964225902L,
+        "TimePast": 1736556524267L,
         "Time": 0L,
-        "Subject": ""
+        "Subject": "Congratulations"
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "就是这里...索隆曾经铸造至尊魔戒的地方！
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "就是这里…索隆曾经铸造至尊魔戒的地方！
 
-...也是唯一能够摧毁它的地方！
+…也是唯一能够摧毁它的地方！
 
-<你趴在山坡上，从口袋里取出那枚戒指...>
+<你趴在山坡上，从口袋里取出那枚戒指…>
 
 整个中洲的命运系于此刻！
 

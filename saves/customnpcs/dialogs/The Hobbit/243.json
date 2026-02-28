@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "谢谢，再会!",
+                "Title": "谢谢，再会！",
                 "DialogColor": 16518403,
                 "OptionType": 0
             }
@@ -70,11 +70,11 @@
     "PreviousBlocks": 1b,
     "DialogText": "很好，我就知道我们可以信任你。
 
-不要害怕。我永远和你在一起!
+不要害怕。我永远和你在一起！
 
 如果你需要我的帮助，我会在那里守护你。 
 
-祝你好运， @p !",
+祝你好运， @p ！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

@@ -17,7 +17,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 19,
+    "ModRev": 22,
     "Type": 0,
     "QuestMail": {
         "Sender": "",
@@ -27,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690135775602L,
+        "TimePast": 1722044372544L,
         "Time": 0L,
         "Subject": ""
     },
@@ -35,6 +35,17 @@
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "Items": {
         "NpcMiscInv": [

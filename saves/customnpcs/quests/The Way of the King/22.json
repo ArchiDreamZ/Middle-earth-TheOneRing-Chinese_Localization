@@ -1,12 +1,12 @@
 {
-    "CompleterNpc": "Shadow",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 6: The white city",
+    "Title": "Part 7: The White City",
     "Text": "萨茹曼被打败后，我必须去通知刚铎那里的人民。
 萨茹曼的帕蓝提尔展示了索隆对米那斯提力斯的攻击计划。
 刚铎人民需要支援！",
@@ -20,7 +20,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -30,7 +30,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1680051857468L,
+        "TimePast": 1737247703261L,
         "Time": 0L,
         "Subject": ""
     },
@@ -38,7 +38,18 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "这里就是...白城！
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "这里就是…白城！
 
 我应该去顶层的国王大殿！
 

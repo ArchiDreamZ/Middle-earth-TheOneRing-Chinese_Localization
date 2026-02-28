@@ -1,0 +1,76 @@
+{
+    "CompleterNpc": "Saradoc Brandybuck",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 0,
+    "Title": "Return to Saradoc",
+    "Text": "I need to return to Saradoc in the Brandy Hall and report the attack on the Hay Gate.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+    ],
+    "ModRev": 22,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "Saradoc Brandybuck",
+        "BeenRead": 0b,
+        "Message": {
+            "pages": [
+                "Hello adventurer,
+I want to thank you again in the name of the Hobbits of Buckland.
+
+The attacks of the Hurons have slowed down and the farmers stopped complaining.
+
+The new guards arrived at the Hay Gate and the survivor",
+                "retired. His actions and your help will never be forgotten.
+
+Now we are prepared incase it will happen again.
+
+Good luck on your future journey!
+
+Your
+Saradoc"
+            ]
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 548749L,
+        "Time": 1722462037394L,
+        "Subject": "Defender of Buckland"
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 4b,
+                "id": "lotr:item.coin",
+                "Count": 5b,
+                "Damage": 1s
+            }
+        ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "I have returned to Saradoc and should tell him about the attack on Hay Gate.
+
+>>( You have unlocked a new dialog option)<<",
+    "NextQuestTitle": ""
+}

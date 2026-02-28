@@ -1,5 +1,6 @@
 {
     "AvailabilityQuestId": -1,
+    "DialogAlignment": 0b,
     "DialogHideNPC": 0b,
     "AvailabilityQuest2": 0,
     "AvailabilityQuest3": 0,
@@ -45,7 +46,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 13,
-                "Title": "我将摧毁这枚魔戒！ {任务开始}",
+                "Title": "我将摧毁这枚至尊戒！ {任务开始}",
                 "DialogColor": 392248,
                 "OptionType": 1
             }
@@ -70,7 +71,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 22,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -87,7 +88,7 @@
 它不能久留此地，仅凭精灵之力已无法抵御邪恶！
 魔戒必须被毁灭！
 
-而魔戒是在末日山烈火中得铸，唯有那地才能将它销毁。
+而魔戒是在魔多的末日山烈火中得铸，唯有那地才能将它销毁。
 投入那烈火深渊，还施彼身..
 
 就在三千年前，我亲自在那里...伊熙尔杜应该将其毁掉...
@@ -105,7 +106,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690137404251L,
+        "TimePast": 1735590012220L,
         "Time": 0L,
         "Subject": ""
     }

@@ -1,10 +1,10 @@
 {
-    "CompleterNpc": "Shadow",
+    "CompleterNpc": "Mouth of Sauron",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 14: The Black Gate",
+    "Title": "Part 15: The Black Gate",
     "Text": "我应该杀死15个奥克头目，这一定能引起索隆的注意！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -16,14 +16,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 15,
-            "Slot": "Orc Captain"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -32,7 +27,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673378195517L,
+        "TimePast": 1722044639494L,
         "Time": 0L,
         "Subject": ""
     },
@@ -52,8 +47,26 @@
             }
         ]
     },
-    "CompleteText": "我做到了...头目们都死了！
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 15,
+            "Slot": "Orc Captain"
+        }
+    ],
+    "TargetType": 0,
+    "CompleteText": "我做到了…头目们都死了！
 
-我应该去会会索隆之口了！",
+我应该去会会索隆的外交官了！",
     "NextQuestTitle": ""
 }

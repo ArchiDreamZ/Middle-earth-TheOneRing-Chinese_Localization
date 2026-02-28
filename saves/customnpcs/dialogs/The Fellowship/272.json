@@ -1,5 +1,6 @@
 {
     "AvailabilityQuestId": -1,
+    "DialogAlignment": 0b,
     "DialogHideNPC": 0b,
     "AvailabilityQuest2": 0,
     "AvailabilityQuest3": 0,
@@ -44,9 +45,9 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来！ (跟随者菜单)",
+                "Title": "跟我来！（跟随者菜单）",
                 "DialogColor": 124415,
-                "OptionType": 3
+                "OptionType": 2
             }
         },
         {
@@ -54,9 +55,9 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "我想快速旅行到地图上的路径点。",
+                "Title": "我想快速旅行到地图上的一个路径点。",
                 "DialogColor": 15339254,
-                "OptionType": 4
+                "OptionType": 2
             }
         },
         {
@@ -79,7 +80,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 22,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -100,9 +101,7 @@
 
 去找埃尔隆德领主吧，他知道该怎么办。
 
-我会和你一起去！
-
->>(你可以带上灰袍甘道夫成为你的同伴)<<",
+我会和你一起去的！与埃尔隆德交谈后，在会议厅旁的计划室与我会面。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -115,7 +114,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690137068201L,
+        "TimePast": 1737569478868L,
         "Time": 0L,
         "Subject": ""
     }

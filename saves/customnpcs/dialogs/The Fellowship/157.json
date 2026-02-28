@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 158,
-                "Title": "接下来将要去哪里?",
+                "Title": "接下来将要去哪里？",
                 "DialogColor": 16251891,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16516355,
                 "OptionType": 0
             }
@@ -70,7 +70,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -79,19 +79,12 @@
     "TextWidth": 300,
     "DialogTitle": "Gimli",
     "PreviousBlocks": 1b,
-    "DialogText": "你就快见识到矮人著名的热情好客了，@p。
-熊熊篝火、麦芽酒、还有脱骨烤肉！
+    "DialogText": "你好，@p，我身后就是通往我表亲巴林坟墓的大门。
+我们来得太晚了。我真不敢相信！看来深渊的恐惧很久以前就降临到他们身上了…
+全都死了……
 
-这儿啊，各位，就是我堂伯巴林的住所。
-他们管这儿叫..矿坑.. 还矿坑！
-
-不...不！....不！！！
-（你们看到了满地的矮人尸骸，吉姆利跪地痛吼）
-
-好吧..看来深渊的恐惧很久以前就降临到他们身上了...
-都林的胡子啊..现在这里简直就是一座坟墓。
-
-",
+哀悼的事先放一边吧。
+咱们得查清楚发生了什么，看这样子是奥克干的。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -104,7 +97,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689106953038L,
+        "TimePast": 1698483151032L,
         "Time": 0L,
         "Subject": ""
     }

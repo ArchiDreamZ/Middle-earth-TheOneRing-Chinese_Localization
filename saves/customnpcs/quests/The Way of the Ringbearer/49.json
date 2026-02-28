@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Merry",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 1,
@@ -20,24 +20,46 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 19,
+    "ModRev": 22,
     "Type": 2,
     "CustomTargetType": "",
     "QuestMail": {
-        "Sender": "",
+        "Sender": "Pippin",
         "BeenRead": 0b,
         "Message": {
+            "pages": [
+                "I want to thank you again for defending us at the old Weathertop.
+
+I've never seen Merry so scared, and he's the bravest of the two of us.
+
+Now we can continue our journey to Rivendell.
+But there is something ",
+                "I like to discuss with you. Merry, Sam and me thought it would be a good idea to suggest a small break every day for second breakfast. I know we need to hurry, but we can't travel with empty stomach.
+
+Your Pippin."
+            ]
         },
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690135415002L,
+        "TimePast": 1722463629881L,
         "Time": 0L,
-        "Subject": ""
+        "Subject": "Second Breakfast"
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "QuestKills": [
         {

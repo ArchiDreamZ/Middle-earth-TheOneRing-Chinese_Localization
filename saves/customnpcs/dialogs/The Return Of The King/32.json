@@ -25,6 +25,7 @@
     ],
     "NPCScale": 1.0f,
     "TextSound": "minecraft:random.wood_click",
+    "DialogSound": "soundeffects:The One Ring 1",
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
@@ -79,7 +80,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -111,7 +112,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689242345363L,
+        "TimePast": 1707539626179L,
         "Time": 0L,
         "Subject": ""
     }

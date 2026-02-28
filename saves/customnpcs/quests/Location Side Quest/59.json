@@ -18,7 +18,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 19,
+    "ModRev": 22,
     "Type": 2,
     "CustomTargetType": "",
     "QuestMail": {
@@ -29,7 +29,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690134234664L,
+        "TimePast": 1722044353495L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,6 +42,17 @@
                 "Damage": 2s
             }
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "QuestKills": [
         {

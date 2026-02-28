@@ -1,12 +1,12 @@
 {
-    "CompleterNpc": "Shadow",
+    "CompleterNpc": "Gandalf",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 8: Path of the Dead",
+    "Title": "Part 9: Path of the Dead",
     "Text": "埃尔隆德重新铸造了纳熙尔之剑，
 并把我送进了亡者之路。
 
@@ -23,7 +23,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -33,13 +33,24 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1680051792217L,
+        "TimePast": 1737247903460L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "CompleteText": "在这里！亡者殿堂！
 

@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Galadriel",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 1,
@@ -17,7 +17,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 19,
+    "ModRev": 22,
     "Type": 2,
     "CustomTargetType": "",
     "QuestMail": {
@@ -28,13 +28,24 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690136735553L,
+        "TimePast": 1722044388093L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "QuestKills": [
         {
@@ -43,7 +54,7 @@
         }
     ],
     "TargetType": 0,
-    "CompleteText": "他已经回来了！可哈穆尔是九戒灵之一。这一定意味着他们中还有更多活过来的...
+    "CompleteText": "他已经回来了！可哈穆尔是九戒灵之一。这一定意味着他们中还有更多活过来的…
 
 也许我会在旅途中找到更多关于这个话题的线索！
 ",

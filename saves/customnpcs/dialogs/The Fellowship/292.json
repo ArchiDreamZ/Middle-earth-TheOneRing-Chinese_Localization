@@ -69,7 +69,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -95,7 +95,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690132970919L,
+        "TimePast": 1707540446830L,
         "Time": 0L,
         "Subject": ""
     }

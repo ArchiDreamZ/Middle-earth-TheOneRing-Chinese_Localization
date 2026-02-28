@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Tanal",
+    "CompleterNpc": "",
     "NextQuestId": 32,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -11,7 +11,7 @@
 
 他丢了一枚奇怪的戒指，似乎能让我隐形。
 
-也许它会有用...
+也许它会有用…
 
 ",
     "QuestFactionPoints": {
@@ -24,7 +24,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -34,7 +34,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667351944368L,
+        "TimePast": 1722044508244L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,11 +42,29 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "这里有一个出口！终于到了！
-我应该继续我的旅程前往埃瑞博，然后寻求贝奥恩的帮助！
-他是中洲最后一个换皮人。 
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "是出口！终于重见天日了！
 
+可是……那是什么？
+
+一个巨大的奥克骑着一头白色座狼，是阿佐格！
+他找到我们了，还挡住了去路。
+我们得设法登上甘道夫所在的那只巨鹰。
+
+我必须不惜一切代价继续前往埃瑞博的旅程！
+接下来我们得寻求贝奥恩的帮助！
+他是整个中洲最后一个换皮人。
 ",
-    "NextQuestTitle": "Part 5: The Shapeshifter",
+    "NextQuestTitle": "Part 5: The Skin-Changer",
     "QuestLocation": "Find a way out"
 }

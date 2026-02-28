@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 82,
-                "Title": "接下来发生了什么? {任务开始}",
+                "Title": "接下来发生了什么？ {任务开始}",
                 "DialogColor": 130869,
                 "OptionType": 1
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会",
+                "Title": "再会！",
                 "DialogColor": 16581634,
                 "OptionType": 0
             }
@@ -69,7 +69,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -79,18 +79,16 @@
     "DialogTitle": "Bilbo3",
     "PreviousBlocks": 1b,
     "DialogText": "也被称为孤山！
-它位于远东，在黑森林王国的后面。
-在塔尔人的脚下。
+它坐落于遥远的东方，跨越山脉河流，黑森林王国的那头。
+就在河谷城百姓的脚下。
 
-从前，傲慢的矮人民族居住在孤山下，由他们的国王瑟罗尔统治。
-他与他的儿子瑟莱因和孙子梭林一起在那里统治。有一天，
-国王对黄金的贪欲变得太过庞大... 灾难席卷了整座山...
-因为众所周知，巨大的宝藏会吸引龙到来，它们一生都在守护着它。
+很久很久以前，骄傲的矮人一族曾在埃瑞博生活，在国王瑟罗尔的统治之下。
+他和他的儿子瑟莱因、孙子梭林一起治理着这片土地。但是有一天，
+这位国王对黄金的贪欲膨胀了起来……灾难席卷了整座孤山……
+因为众所周知，巨大的宝藏会引来恶龙，而它们会用一生守护这份财富。
 
-伟大的史矛革摧毁了河谷城，然后是孤山...
-矮人们逃离了那里... 从那时起，梭林就发誓要报仇！
-
-",
+伟大的史矛革先是毁灭了河谷城，然后又摧毁了埃瑞博……
+矮人们四散逃亡……从此以后，梭林立誓要报仇雪恨！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -103,7 +101,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690137351202L,
+        "TimePast": 1698151349403L,
         "Time": 0L,
         "Subject": ""
     }

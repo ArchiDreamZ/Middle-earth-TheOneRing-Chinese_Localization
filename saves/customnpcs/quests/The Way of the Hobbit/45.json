@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Ranler",
+    "CompleterNpc": "Smaug",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 1,
@@ -17,14 +17,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 1,
-            "Slot": "Smaug"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -33,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667351953668L,
+        "TimePast": 1722044484595L,
         "Time": 0L,
         "Subject": ""
     },
@@ -41,18 +36,35 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "我做到了！
-史矛革死了！
-经过长时间的鏖战，我杀死了它！
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 1,
+            "Slot": "Smaug"
+        }
+    ],
+    "TargetType": 0,
+    "CompleteText": "我成功了！
+史矛革被消灭了！
+经过一番漫长而艰苦的战斗，我击败了它！
 
-山下之王夺回了埃瑞博。
+山下之王收复了埃瑞博。
 我的旅程暂时告一段落。
 
-但中洲还没迎来和平...一个古老的黑影正在东方崛起。
-还有更多的故事等着我！
+但中洲尚未安宁…一个古老的黑影正在东方崛起。
+还有更多任务在等待着我！
 
-(任务： “霍比特人之路” 到此结束，感谢您的游玩)
-
+（你已完成任务线：霍比特人之路。感谢游玩！更多更新即将到来！）
 ",
     "NextQuestTitle": ""
 }

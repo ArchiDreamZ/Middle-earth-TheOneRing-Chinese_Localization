@@ -20,7 +20,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 0,
     "QuestMail": {
         "Sender": "",
@@ -30,7 +30,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1688909384303L,
+        "TimePast": 1722044402694L,
         "Time": 0L,
         "Subject": ""
     },
@@ -45,6 +45,17 @@
             }
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
     "Items": {
         "NpcMiscInv": [
             {
@@ -56,6 +67,8 @@
         ]
     },
     "LeaveItems": 0b,
-    "CompleteText": "我找到了那封信，应该把它带给老甘姆吉。 ",
+    "CompleteText": "我已经找到了霍比特人蛋糕的食谱，得把它带回去给老甘姆吉。还得告诉他他家地下室住着兔子的事。
+
+>>（你已在老甘姆吉处解锁新的对话选项）<<",
     "NextQuestTitle": ""
 }

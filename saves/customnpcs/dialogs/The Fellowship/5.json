@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 6,
-                "Title": "是的，我会拿起魔戒！ (伸手去拿魔戒)",
+                "Title": "是的，我愿意拿走魔戒！ (伸手去拿魔戒)",
                 "DialogColor": 15525633,
                 "OptionType": 1
             }
@@ -69,7 +69,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -104,7 +104,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689233341144L,
+        "TimePast": 1710495434684L,
         "Time": 0L,
         "Subject": ""
     }

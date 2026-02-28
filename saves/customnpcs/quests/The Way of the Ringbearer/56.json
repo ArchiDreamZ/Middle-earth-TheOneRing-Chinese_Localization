@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Gollum",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 1,
@@ -18,14 +18,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 1,
-            "Slot": "The Witchking"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -34,7 +29,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667281087243L,
+        "TimePast": 1736556612817L,
         "Time": 0L,
         "Subject": ""
     },
@@ -42,6 +37,24 @@
         "NpcMiscInv": [
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 1,
+            "Slot": "The Witchking"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "经过漫长而艰苦的战斗，我终于在米那斯魔古尔城堡击败了安格玛巫王！
 现在这片区域又有救了！ ",
     "NextQuestTitle": ""

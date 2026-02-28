@@ -1,13 +1,13 @@
 {
-    "CompleterNpc": "Tanal",
-    "NextQuestId": 33,
+    "CompleterNpc": "Gandalf",
+    "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 5: The Shapeshifter",
-    "Text": "在我开始穿越黑森林的漫长旅程之前，我需要食物和住所！希望贝奥恩能有所帮助... 有些时候，熊是不可预测的！",
+    "Title": "Part 5: The Skin-Changer",
+    "Text": "在我开始穿越黑森林的漫长旅程之前，我需要食物和住所！我希望贝奥恩能有所帮助… 有些时候，熊是不可预测的！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -18,7 +18,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -28,7 +28,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667351941969L,
+        "TimePast": 1722044513194L,
         "Time": 0L,
         "Subject": ""
     },
@@ -36,10 +36,20 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "在这里！
-但我没有看到人啊？
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "找到了！贝奥恩的厅堂。但我看不到一个人影，唯有一头面带怒色的熊正在看守着大门…
 
-哦！一只熊！是贝奥恩吗，我希望他是友好的！",
-    "NextQuestTitle": "Part 6: The Brown Wizard",
+我得悄悄溜过去才行，跟它打起来恐怕不是个好主意。",
+    "NextQuestTitle": "",
     "QuestLocation": "Beorns Hall"
 }

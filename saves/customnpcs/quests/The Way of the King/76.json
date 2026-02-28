@@ -1,0 +1,74 @@
+{
+    "CompleterNpc": "",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Part 3: The Golden Hall",
+    "Text": "It looks like Saruman took over the mind of king Theoden. Maybe Gandalf can heal him. I have to make sure no one is interrupting him. ",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 22,
+    "Type": 2,
+    "CustomTargetType": "noppes.npcs.entity.EntityCustomNpc",
+    "QuestMail": {
+        "Sender": "Eowyn",
+        "BeenRead": 0b,
+        "Message": {
+            "pages": [
+                "You and Gandalf healed my uncle! I am forever in your dept. The people of Edoras finally have their king back.
+
+We also banned Grima from the lands. I never felt comfortable close to him. I'm glad he is gone.
+",
+                "I miss Eomer, I hope he will soon come back.
+
+I will now spend time with my uncle and mourn the death of his son Thèodred.
+He needs me now, the people of Rohan need me. I have to stay strong.
+
+Your Eowyn."
+            ]
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1722463644430L,
+        "Time": 0L,
+        "Subject": "The healing of Theoden"
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 1,
+            "Slot": "Grima"
+        },
+        {
+            "Value": 6,
+            "Slot": "Ruffian"
+        }
+    ],
+    "TargetType": 0,
+    "CompleteText": "Now Gandalf can heal king Theoden. It looks like its working already, I should speak to the King.",
+    "NextQuestTitle": ""
+}

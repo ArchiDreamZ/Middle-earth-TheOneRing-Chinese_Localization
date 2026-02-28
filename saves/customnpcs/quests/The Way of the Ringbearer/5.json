@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Galadriel",
+    "CompleterNpc": "",
     "NextQuestId": 53,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -8,7 +8,7 @@
     "QuestCompletion": 1,
     "Title": "Part 6: Argonath",
     "Text": "洛丝罗瑞恩..可能是中洲最美的地方..
-而我却心甘情愿地离开它，去看一片灰烬和尘土的沙漠...
+而我却心甘情愿地离开它，去看一片灰烬和尘土的沙漠…
 
 加拉德瑞尔夫人在码头为我提供了补给和一艘船。
 旅程继续向南，横跨安度因河。
@@ -24,7 +24,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 19,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -34,13 +34,24 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689217721924L,
+        "TimePast": 1722044788793L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "CompleteText": "这就是加拉德瑞尔夫人说的雕像！
 

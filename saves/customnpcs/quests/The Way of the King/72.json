@@ -1,12 +1,12 @@
 {
-    "CompleterNpc": "King of the Dead",
-    "NextQuestId": -1,
+    "CompleterNpc": "Gandalf",
+    "NextQuestId": 86,
     "RandomReward": 0b,
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Part 12: The Witchking",
+    "Title": "Part 13: The Witchking",
     "Text": "我找到了洛希尔人骑兵，而且恰好及时赶到！
-敌人也得到了支援...来自东方和南方邪恶的人类。他们带来了巨大的猛犸参加战斗。
+敌人也得到了支援…来自东方和南方邪恶的人类。他们带来了巨大的猛犸参加战斗。
 这场战斗光靠洛希尔人是赢不了的！
 
 我将通过击败所有统领，并在伊奥温和梅里的帮助下，亲手杀死巫王来帮助他们！
@@ -21,18 +21,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 1,
-            "Slot": "The Witchking"
-        },
-        {
-            "Value": 6,
-            "Slot": "Easterling Captain"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -41,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1680051841165L,
+        "TimePast": 1722044623892L,
         "Time": 0L,
         "Subject": ""
     },
@@ -49,7 +40,29 @@
         "NpcMiscInv": [
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 6,
+            "Slot": "Easterling Captain"
+        },
+        {
+            "Value": 1,
+            "Slot": "The Witchking"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "巫王和东夷的统领都死了！现在我们应该赢得这场战斗！
 接下来我要去米那斯提力斯找甘道夫谈谈。 ",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Return to Gandalf"
 }

@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Tanal",
+    "CompleterNpc": "Gollum",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -21,7 +21,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -31,7 +31,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667351946917L,
+        "TimePast": 1736387017636L,
         "Time": 0L,
         "Subject": ""
     },
@@ -45,9 +45,22 @@
             }
         ]
     },
-    "CompleteText": "我找到了离开半兽人镇的出口...
-突然间，我看到一个奇怪的生物用一块石头砸死了一个奥克...
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "我找到了离开半兽人镇的出口…
+突然间，我看到一个奇怪的生物用一块石头砸死了一个奥克…
+
 这个生物似乎在这个过程中丢失了一个黄金戒指。
+
 我应该拿起它！它看起来很特别，我感觉它非常重要。",
     "NextQuestTitle": "",
     "QuestLocation": "Exit"

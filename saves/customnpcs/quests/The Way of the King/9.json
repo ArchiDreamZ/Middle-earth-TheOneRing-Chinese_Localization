@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Gandalf der Weiße",
+    "CompleterNpc": "",
     "NextQuestId": 10,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -12,7 +12,7 @@
 
 在这黑暗时刻，这真是个好消息！
 
-他要我骑马前往去洛汗的首都...埃多拉斯...
+他要我骑马前往去洛汗的首都…埃多拉斯…
 
 ",
     "QuestFactionPoints": {
@@ -25,7 +25,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -35,7 +35,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673460193155L,
+        "TimePast": 1722044650893L,
         "Time": 0L,
         "Subject": ""
     },
@@ -43,11 +43,21 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "这就是...洛汗的首都和国王的金殿！
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "这就是…洛汗的王都和国王的金殿！
 
-但是我在哪都没看到甘道夫...
-
+我应该与守卫谈谈。
 ",
-    "NextQuestTitle": "Part 3: Helms Deep",
+    "NextQuestTitle": "Part 4: Helms Deep",
     "QuestLocation": "The Kings Hall"
 }

@@ -64,7 +64,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "我想快速旅行到地图上的路径点。",
+                "Title": "我想快速旅行到地图上的一个路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -89,7 +89,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -107,7 +107,7 @@
 
 我得承认，我想单独跟你聊聊关于这枚戒指的事情。
 
-真有趣，我们就为了这小小的玩意儿而受尽了恐惧和疑虑的折磨...
+真有趣，我们就为了这小小的玩意儿而受尽了恐惧和疑虑的折磨…
 
 >>(你可以带上波洛米尔作为同伴)<<",
     "AvailabilityQuest4Id": -1,
@@ -122,7 +122,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690021439066L,
+        "TimePast": 1707541028528L,
         "Time": 0L,
         "Subject": ""
     }

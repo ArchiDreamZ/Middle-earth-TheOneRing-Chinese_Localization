@@ -74,7 +74,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 156,
-                "Title": "嗯，...你有试过墨瑞亚领主都林这句吗？",
+                "Title": "嗯，…你有试过墨瑞亚领主都林这句吗？",
                 "DialogColor": 1503475,
                 "OptionType": 1
             }
@@ -84,7 +84,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 156,
-                "Title": "嗯，...那芝麻开门怎么样？",
+                "Title": "嗯，…那芝麻开门怎么样？",
                 "DialogColor": 1503475,
                 "OptionType": 1
             }
@@ -109,7 +109,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -118,19 +118,17 @@
     "TextWidth": 300,
     "DialogTitle": "gandalfmoria2neu",
     "PreviousBlocks": 1b,
-    "DialogText": "萨茹曼的背叛来得有些出乎意料...
+    "DialogText": "萨茹曼的背叛来得有些出乎意料…
 不得不走这条路了，这是我最后的选择。
-我们没有其他路可走，所以我们必须尝试一下...
+我们没有其他路可走，所以我们必须尝试一下…
 
-但是这门打不开...我什么都试过了。
-我不明白， ...
+但是这门打不开…我什么都试过了。
+我不明白，…
 
-上面写的是「开口说，朋友，然后进入」
+上面写的是「请说 朋友 然后进入」
 意思够明显了，如果你是朋友，说出口令，门就会打开。
-这种咒语我曾全数知道，不管是精灵语..人类语还是奥克语...
-但我试过的所有咒语都不起作用...
-
-(正确选择以开始任务)",
+这种咒语我曾全数知道，不管是精灵语…人类语还是奥克语…
+但我试过的所有咒语都不起作用…",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -143,7 +141,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689106967437L,
+        "TimePast": 1698323390932L,
         "Time": 0L,
         "Subject": ""
     }

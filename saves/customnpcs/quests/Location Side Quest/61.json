@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Faramir",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 1,
@@ -8,7 +8,7 @@
     "Text": "刚铎大将法拉米尔向我求助，希望我能去凯尔安德洛斯帮忙！
 这座刚铎的古老城池已落入魔多奥克之手！
 
-我必须在北桥与他会合，奥克已经封锁了其他所有城门...
+我必须在北桥与他会合，奥克已经封锁了其他所有城门…
 然后我们一起对抗奥克头目，一定要打退他们。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -20,14 +20,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 20,
-            "Slot": "Orc Captain"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -36,7 +31,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1682688416884L,
+        "TimePast": 1722044290744L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,6 +39,24 @@
         "NpcMiscInv": [
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 20,
+            "Slot": "Orc Captain"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "我们成功了！法拉米尔和我一起杀死了所有的奥克头目，夺回了凯尔安德洛斯城！
 
 现在刚铎的人民可以回到这里了。

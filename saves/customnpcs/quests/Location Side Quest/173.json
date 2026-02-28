@@ -1,0 +1,94 @@
+{
+    "CompleterNpc": "",
+    "NextQuestId": 174,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Keys to the Hill",
+    "Text": "Bilbo is preparing to leave the Shire and has asked me to collect the items that prove the ownership of Bag End: the Key and the Ownership Letter. He hid the key somewhere inside Bag End. I need to watch out for clues.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 22,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1757647520175L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 4b,
+                "id": "minecraft:written_book",
+                "Count": 1b,
+                "tag": {
+                    "pages": [
+                        "Bilbo’s Riddles
+------------
+
+A box without hinges, key, or lid,
+Yet golden treasure inside is hid.
+What am I?
+
+-Mug?
+-Egg?
+-Sea?
+Walk North",
+                        "I eat no bread, I drink no wine,
+Yet water is forever mine.
+What am I?
+
+-Pipe
+-Sun
+-Wine
+-Fish
+Walk East",
+                        "Bag End’s heart I call my home,
+With books and maps where I would roam.
+The Key you seek is not in gold,
+But underfoot, the floorboards hold.
+",
+                        "Tales and maps upon the wall,
+Pipes and letters, books and all…
+Yet what you seek is under feet,
+Where board and carpet quiet meet."
+                    ],
+                    "author": "PakPacman",
+                    "title": "Bilbo's Riddles"
+                },
+                "Damage": 0s
+            }
+        ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "I found an interesting book about a possible riddle Bilbo spoke of. Maybe they could lead me to the key.",
+    "NextQuestTitle": "Key to the Hill 2",
+    "QuestLocation": "Clue to the Key"
+}

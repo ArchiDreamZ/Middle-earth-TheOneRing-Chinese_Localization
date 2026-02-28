@@ -1,5 +1,6 @@
 {
     "AvailabilityQuestId": -1,
+    "DialogAlignment": 0b,
     "DialogHideNPC": 0b,
     "AvailabilityQuest2": 0,
     "AvailabilityQuest3": 0,
@@ -25,6 +26,7 @@
     ],
     "NPCScale": 1.0f,
     "TextSound": "minecraft:random.wood_click",
+    "DialogSound": "dialog_voiceovers:Forsaken Inn Guard 2",
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
@@ -54,7 +56,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会",
+                "Title": "再会！",
                 "DialogColor": 16516869,
                 "OptionType": 0
             }
@@ -69,7 +71,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 22,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -97,7 +99,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690134085913L,
+        "TimePast": 1737239459270L,
         "Time": 0L,
         "Subject": ""
     }

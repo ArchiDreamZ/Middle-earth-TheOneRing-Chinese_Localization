@@ -1,0 +1,58 @@
+{
+    "CompleterNpc": "",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "The Road to War",
+    "Text": "After the fall of Isengard, King Théoden gathers his forces at Dunharrow. I must make my way there and speak with him and his council. The battle for Middle-earth approaches, and Rohan's strength will be crucial in the fight against Sauron.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 52,
+            "Slot": 0
+        }
+    ],
+    "ModRev": 22,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1737250103461L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "You’ve reached the ancient refuge of Dunharrow, where the path to the mountains looms ahead. The war draws near, and the fate of Rohan rests in your hands. The Rohirrim are getting ready for battle, but will there be enough?
+
+Lord Elrond has entrusted you with the reforged sword, Andúril, a symbol of hope and strength. With this blade in hand, your path now leads to the Paths of the Dead. Seek the King of the Dead and secure his aid, for only with his army can you turn the tide of war.",
+    "NextQuestTitle": ""
+}

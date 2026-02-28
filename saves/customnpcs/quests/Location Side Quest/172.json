@@ -1,0 +1,50 @@
+{
+    "CompleterNpc": "Alf (Tutorial Quest)",
+    "NextQuestId": -1,
+    "RandomReward": 0b,
+    "QuestRepeat": 0,
+    "QuestCompletion": 0,
+    "Title": "Rhudaur Invasion",
+    "Text": "Kill the Rhudaur Captain and defeat the invasion",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 22,
+    "Type": 2,
+    "CustomTargetType": "noppes.npcs.entity.EntityCustomNpc",
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1750028941047L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "PartyOptions": {
+        "AllowParty": 0b
+    },
+    "QuestKills": [
+        {
+            "Value": 1,
+            "Slot": "lotr.AngmarHillmanWarrior"
+        }
+    ],
+    "TargetType": 0,
+    "CompleteText": "Quest Complete! Every faction has a npc (in Brees case, the Bree-land Sheriff) where you are can purchase hired units to fight along side you. Horns of command can be used to help control your hired units (ready/halt units, summon units etc). Most hired units will require a certain amount of alignment, and in some cases, will you require you to pledge before you are able to hire units from the respective faction. You can decrease the cost of hired units by increasing your alignment with the faction, and by pledging to the faction you wish to hire units from.",
+    "NextQuestTitle": ""
+}

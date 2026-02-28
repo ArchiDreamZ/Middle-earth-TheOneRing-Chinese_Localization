@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16386568,
                 "OptionType": 0
             }
@@ -42,7 +42,7 @@
     "OptionFaction2Points": 100,
     "DialogText": "非常好，梭林正在那里等着你呢！
 我们等到奇力恢复健康后就马上过去。
-祝你成功， @p !",
+祝你成功， @p ！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

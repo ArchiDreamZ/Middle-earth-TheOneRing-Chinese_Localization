@@ -1,14 +1,14 @@
 {
-    "CompleterNpc": "Gollum",
+    "CompleterNpc": "",
     "NextQuestId": 11,
     "RandomReward": 0b,
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 13: Cirith Ungol",
-    "Text": "古老的奇立斯乌苟之塔可能还有人居住，我听到奥克在战斗。
-我应该努力登顶。也许那里有什么有趣的东西可以帮助我完成旅程。
+    "Text": "古老的奇立斯乌苟之塔多半还有守军，我听到奥克在打斗。
+我得一路杀上去，说不定塔顶能找到什么对旅途有用的好东西。
 
->>(杀死塔顶的两个奥克首领)<<",
+>>（杀死塔顶的两个奥克首领）<<",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -19,7 +19,37 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
+    "ModRev": 22,
+    "Type": 2,
+    "CustomTargetType": "",
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1736556472067L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
         {
             "Value": 1,
             "Slot": "Gorbag"
@@ -29,31 +59,13 @@
             "Slot": "Shagrat"
         }
     ],
-    "ModRev": 16,
-    "Type": 2,
-    "QuestMail": {
-        "Sender": "",
-        "BeenRead": 0b,
-        "Message": {
-        },
-        "MailItems": [
-        ],
-        "MailQuest": -1,
-        "TimePast": 1667279179745L,
-        "Time": 0L,
-        "Subject": ""
-    },
-    "Rewards": {
-        "NpcMiscInv": [
-        ]
-    },
+    "TargetType": 0,
     "CompleteText": "我战胜了奥克，杀死了塔顶上的两名奥克首领。
 在他们偷来的财宝中，有佛罗多的秘银链甲。
 它轻如羽毛，却坚硬如龙甲！
-这将会派上用场。
 
 我现在应该继续向魔多的方向前进。
 已经接近了！希望我们在旅途的剩余部分能够不被察觉。
 如果我们失败了，中洲将会毁灭！",
-    "NextQuestTitle": "Part 14: Weit weg von Zuhause!"
+    "NextQuestTitle": "Part 14: Far From Home!"
 }

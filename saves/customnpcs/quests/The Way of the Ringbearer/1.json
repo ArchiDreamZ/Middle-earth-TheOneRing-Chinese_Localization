@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Gandalf der Graue",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -26,7 +26,7 @@
     },
     "RewardExp": 20,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -36,7 +36,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1668404942707L,
+        "TimePast": 1722464891266L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,17 +44,24 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "\"这就是甘道夫说过的旅馆。
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "这就是甘道夫提到的旅馆。
+可他好像不在这儿……
 
-但他好像不在这儿！
+他该不会出什么事了吧？
+他向来都很守时的！
 
-他出什么事了吗？
-
-否则他总是准时的！\"
-
-(有人在房间的角落里看着你！)
-
-",
+（有人正从屋角盯着你！跟大步佬说话以继续。）",
     "NextQuestTitle": "",
-    "QuestLocation": "Bree Inn"
+    "QuestLocation": "The Prancing Pony"
 }

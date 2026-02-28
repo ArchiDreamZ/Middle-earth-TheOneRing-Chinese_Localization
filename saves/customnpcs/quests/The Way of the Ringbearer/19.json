@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Théoden",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 1,
@@ -20,14 +20,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 1,
-            "Slot": "Sauron"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -36,7 +31,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667279229246L,
+        "TimePast": 1722044821643L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,12 +39,30 @@
         "NpcMiscInv": [
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 1,
+            "Slot": "Sauron"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "你已经摧毁了索隆！
 
 将放逐回到他原来待的空虚之境！
 你现在已经恢复了中洲的和平！
 
-任务完成了... 人类与和平的时代已经到来！
+任务完成了… 人类与和平的时代已经到来！
 
 大鹰已经在等你了！ @p
 

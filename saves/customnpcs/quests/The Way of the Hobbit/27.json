@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Ranler",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -9,7 +9,7 @@
     "Title": "An Unexpected Journey ",
     "Text": "我在幽谷遇到了比尔博，他给我讲了他的冒险经历。
 
-我应该在这里四处看看...
+我应该在这里四处看看…
 也许这里有更多关于比尔博故事的线索。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -21,7 +21,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -31,13 +31,24 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667351959368L,
+        "TimePast": 1722044465044L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "CompleteText": "<<巫师理事会>>
 

@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Galadriel",
+    "CompleterNpc": "",
     "NextQuestId": 65,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -7,8 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Khamuls Tower",
-    "Text": "加拉德瑞尔夫人让我帮她找出巫王回归背后的真相。如果两个都回来了，那他们就都回来了!
-我得去埃林卡兰东部的可哈穆尔之塔看看那里是不是空的！希望是空的！...我可不想和鬼打架！",
+    "Text": "加拉德瑞尔夫人让我帮她找出巫王回归背后的真相。如果两个都回来了，那他们就都回来了！
+我得去埃林卡兰东部的可哈穆尔之塔看看那里是不是空的！希望是空的！…我可不想和鬼打架！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -19,7 +19,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 19,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -29,7 +29,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690136638902L,
+        "TimePast": 1722044382343L,
         "Time": 0L,
         "Subject": ""
     },
@@ -37,7 +37,18 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "这就是那兹古尔·可哈穆尔之塔!
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "这就是那兹古尔·可哈穆尔之塔！
 
 我看到里面有光了，我应该去看看。 
 

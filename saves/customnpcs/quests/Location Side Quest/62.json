@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Gandalf",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -19,7 +19,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -29,7 +29,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1683152600708L,
+        "TimePast": 1730844433915L,
         "Time": 0L,
         "Subject": ""
     },
@@ -37,8 +37,19 @@
         "NpcMiscInv": [
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
     "CompleteText": "到了！ 
 黑暗之地乌图姆诺，好诡异的地方，但我必须进入黑暗领域，与魔苟斯的恶魔战斗！",
     "NextQuestTitle": "",
-    "QuestLocation": "Utumno "
+    "QuestLocation": "Utumno"
 }

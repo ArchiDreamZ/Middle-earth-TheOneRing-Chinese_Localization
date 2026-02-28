@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Gandalf der Graue",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -28,7 +28,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 19,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -38,13 +38,24 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690136776551L,
+        "TimePast": 1722044767093L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "CompleteText": "你已经来到幽谷并参加了埃尔隆德领主的会议！
 把魔戒放在中间的桌子上，和在场的每个人交谈。",

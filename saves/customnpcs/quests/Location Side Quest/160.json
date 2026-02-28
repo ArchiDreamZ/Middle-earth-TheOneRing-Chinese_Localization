@@ -1,0 +1,53 @@
+{
+    "CompleterNpc": "",
+    "NextQuestId": -1,
+    "QuestLocation3": "",
+    "RandomReward": 0b,
+    "QuestLocation2": "",
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "The Wisdom of Gildor",
+    "Text": "I've met an elf named Gildor Inglorion, who asked me to search the next Silmaril stone. He thinks a dwarf named Barin in West-Peak has found it. The dwarves of the Iron Hills are stubborn but also friendly. If they have found the Silmaril, I need to get it before it corrupts the mind of the dwarves.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "ModRev": 22,
+    "Type": 3,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1737368372312L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+        ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "I've found West-Peak in the Iron Hills. Now I need to find a dwarf named Barin. He should be inside the main hall. If Gildor was right, Barin has found one of the Silmaril stones.",
+    "NextQuestTitle": "",
+    "QuestLocation": "West-Peak"
+}

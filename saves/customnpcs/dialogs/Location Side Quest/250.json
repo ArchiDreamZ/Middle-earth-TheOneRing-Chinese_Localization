@@ -1,6 +1,45 @@
 {
-    "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
+    "DialogAlignment": 0b,
+    "DialogHideNPC": 0b,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "RenderGradual": 0b,
+    "OptionOffsetX": 0,
+    "OptionOffsetY": 0,
+    "OptionFactions1": -1,
+    "TextOffsetX": 0,
+    "OptionFactions2": -1,
+    "TextOffsetY": 0,
+    "AvailabilityFaction2Id": -1,
+    "TitlePos": 0,
+    "OptionFaction1Points": 100,
+    "TitleColor": 14737632,
+    "DialogDisableEsc": 0b,
+    "ShowOptionLine": 1b,
+    "AvailabilityFaction": 0,
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "Color": 14737632,
+    "Images": [
+    ],
+    "NPCScale": 1.0f,
+    "TextSound": "minecraft:random.wood_click",
+    "DialogSound": "dialog_voiceovers:Tom Bombadil song",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "TextPitch": 1.0f,
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "AvailabilityQuest3Id": -1,
+    "NPCOffsetY": 0,
+    "AvailabilityDialog3Id": -1,
+    "NPCOffsetX": 0,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogShowWheel": 0b,
     "Options": [
         {
             "OptionSlot": 0,
@@ -27,64 +66,50 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16712192,
                 "OptionType": 0
             }
         }
     ],
-    "DialogHideNPC": 0b,
+    "TextHeight": 400,
+    "OptionSpaceX": 0,
     "AvailabilityFactionStance": 0,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
-    "AvailabilityQuest3": 0,
-    "AvailabilityQuest4": 0,
-    "ModRev": 16,
+    "OptionSpaceY": 0,
+    "TitleOffsetY": 0,
+    "TitleOffsetX": 0,
+    "ModRev": 22,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
-    "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
-    "OptionFactions2": -1,
-    "AvailabilityFaction2Id": -1,
-    "OptionFaction1Points": 100,
-    "DialogDisableEsc": 0b,
-    "AvailabilityFaction": 0,
+    "DialogDarkScreen": 1b,
+    "TextWidth": 300,
     "DialogTitle": "Bombadil 1",
-    "AvailabilityDialog": 0,
-    "AvailabilityFaction2": 0,
-    "DialogSound": "lotr:dwarf.kill",
-    "AvailabilityFactionId": -1,
-    "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "",
-    "AvailabilityDialogId": -1,
-    "OptionFaction2Points": 100,
+    "PreviousBlocks": 1b,
     "DialogText": "(开始吟唱):
 
-嘿嘿咚! 欢乐咚！我的小心肝哟！
+嘿嘿咚！ 欢乐咚！我的小心肝哟！
 微风轻轻吹，小鸟轻轻飞， 
 远在山坡下，阳光里闪亮， 
 披泠冷星光，等在门阶上，
-就是河婆的女儿，我心上的姑娘,
-身条细如柳，心地比水清,
+就是河婆的女儿，我心上的姑娘，
+身条细如柳，心地比水清，
 老汤姆·邦巴迪尔带着睡莲花
-快快乐乐回来啦！你听见他的歌声吗?
+快快乐乐回来啦！你听见他的歌声吗？
 嘿嘿咚！欢乐咚！回来啦！
 金莓呀金莓，可爱的鲜黄莓果呀！
 可怜的柳树老头啊，快把你的绊子收起来！
 汤姆赶着要回家，夜晚就要到来，
 汤姆带着睡莲回家来！ 
-嘿嘿咚！回来啦！你听见我的歌声吗？
+嘿嘿咚！回来啦！你听见我的歌声吗？",
     "AvailabilityQuest4Id": -1,
-    "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
-    "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
-    "AvailabilityMinPlayerLevel": 0,
-    "DecreaseFaction2Points": 0b,
     "DialogMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -93,7 +118,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1688909954904L,
+        "TimePast": 1737245394761L,
         "Time": 0L,
         "Subject": ""
     }

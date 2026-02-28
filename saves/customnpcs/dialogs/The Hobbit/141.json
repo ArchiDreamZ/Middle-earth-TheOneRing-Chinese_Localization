@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16583682,
                 "OptionType": 0
             }
@@ -40,7 +40,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "哦，谁来了?
+    "DialogText": "哦，谁来了？
 一个冒险者。
 
 欢迎来到黑森林精灵王国，我叫陶瑞尔。
@@ -48,7 +48,7 @@
 曾几何时，森林是安全的．．．我希望这样的时刻会再次到来。
 
 如果你想留下来参观，请务必尝试我们的酒窖里的美酒，格外美味。
-告别啦!",
+告别啦！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

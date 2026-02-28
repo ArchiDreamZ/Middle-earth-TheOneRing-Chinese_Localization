@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Gandalf ",
+    "CompleterNpc": "",
     "NextQuestId": 4,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -7,11 +7,11 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 4: The Mines of Moria",
-    "Text": "摩瑞亚漫长的黑暗...
+    "Text": "墨瑞亚漫长的黑暗…
 这地方不安全，但我们必须得从这里走。
 
 我希望我们能悄无声息地穿过矿井。
-如果传说是真的，可能会很危险...",
+如果传说是真的，可能会很危险…",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -22,7 +22,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -32,13 +32,24 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667272928626L,
+        "TimePast": 1722044777344L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "CompleteText": "有出口了！天终于又亮了！
 

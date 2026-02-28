@@ -1,11 +1,11 @@
 {
-    "CompleterNpc": "Radagast",
+    "CompleterNpc": "",
     "NextQuestId": 44,
     "RandomReward": 0b,
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Side Quest: The Necromancer",
-    "Text": "真是个令人毛骨悚然的地方...
+    "Text": "真是个令人毛骨悚然的地方…
 我听到空中有奇怪的声音，到处都是蜘蛛。
 我必须克服恐惧，环顾黑暗堡垒的四周。
 ",
@@ -19,14 +19,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 1,
-            "Slot": "Necromancer"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -35,7 +30,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667425211900L,
+        "TimePast": 1722316396256L,
         "Time": 0L,
         "Subject": ""
     },
@@ -43,12 +38,30 @@
         "NpcMiscInv": [
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 1,
+            "Slot": "Necromancer"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "它邪恶而强大。
-幸运的是我能够摆脱它,但只有很短的一段时间。
+幸运的是我能够摆脱它，但只有很短的一段时间。
 
 必须用比剑更强大的东西来驱逐邪恶。
 
-只能是他，...索隆...死灵法师一定是他。
+只能是他，…索隆…死灵法师一定是他。
 我必须向拉达加斯特报告。
 
 在他回来之前，我们快离开这里。

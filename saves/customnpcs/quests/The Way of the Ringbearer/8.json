@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Aragorn",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -7,10 +7,10 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 10: Gondor",
-    "Text": "黑门将会被守得很严密...
+    "Text": "黑门将会被守得很严密…
 但也许咕噜知道另一条路！
 
-显然，我必须穿越刚铎的战争中心！...
+显然，我必须穿越刚铎的战争中心！…
 我还遇到了年轻的大将法拉米尔。
 我希望他能清醒过来放我离开。
 
@@ -26,7 +26,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -36,7 +36,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1683152338963L,
+        "TimePast": 1736556545117L,
         "Time": 0L,
         "Subject": ""
     },
@@ -44,8 +44,19 @@
         "NpcMiscInv": [
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
     "CompleteText": "法拉米尔带我来到了欧斯吉利亚斯。
-这座曾经美丽的刚铎城市如今破败不堪，宛如一片战争的废墟...
+这座曾经美丽的刚铎城市如今破败不堪，宛如一片战争的废墟…
 
 在这里太过危险了，我必须说服法拉米尔让我离开。
 ",

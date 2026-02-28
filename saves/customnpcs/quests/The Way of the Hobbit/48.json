@@ -1,12 +1,12 @@
 {
-    "CompleterNpc": "Kyoukan",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
     "QuestLocation2": "",
     "QuestRepeat": 1,
     "QuestCompletion": 1,
-    "Title": "Side Quest: Battle of the 5 Armys",
+    "Title": "Side Quest: Battle of the 5 Armies",
     "Text": "甘道夫准备保卫河谷城。
 我应该问问能不能帮上忙。",
     "QuestFactionPoints": {
@@ -19,7 +19,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -29,13 +29,24 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667424963500L,
+        "TimePast": 1722316335855L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "CompleteText": "这里是河谷古城，曾经被恶龙史矛革摧毁，
 来自河谷城的人们在那里定居，以抵御奥克的入侵。

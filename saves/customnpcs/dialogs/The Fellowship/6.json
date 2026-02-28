@@ -25,7 +25,7 @@
     ],
     "NPCScale": 1.0f,
     "TextSound": "minecraft:random.wood_click",
-    "DialogSound": "lotr:wight.ambience",
+    "DialogSound": "soundeffects:Sauron 1",
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "/give @p 5357 1",
@@ -80,7 +80,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -96,8 +96,7 @@
 一定要记住，这魔戒时刻想着要回到主人身边，它巴不得被人找到。
 
 好好保管它！绝不要佩戴它，无论如何都不要！
-否则黑暗魔君的仆从就会被它的力量吸引！
-",
+否则黑暗魔君的仆从就会被它的力量吸引！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -110,7 +109,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689233367993L,
+        "TimePast": 1710495458382L,
         "Time": 0L,
         "Subject": ""
     }

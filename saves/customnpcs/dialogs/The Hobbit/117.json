@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 115,
-                "Title": "你为什么不和我们一起去呢?",
+                "Title": "你为什么不和我们一起去呢？",
                 "DialogColor": 16447982,
                 "OptionType": 1
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 116,
-                "Title": "接下来我应该做什么? (任务开始))",
+                "Title": "接下来我应该做什么？ (任务开始))",
                 "DialogColor": 523558,
                 "OptionType": 1
             }
@@ -27,7 +27,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 14223626,
                 "OptionType": 0
             }

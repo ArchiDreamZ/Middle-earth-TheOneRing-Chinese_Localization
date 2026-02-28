@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Tanal",
+    "CompleterNpc": "",
     "NextQuestId": 30,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -22,7 +22,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667351948817L,
+        "TimePast": 1722044495845L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,13 +40,24 @@
         "NpcMiscInv": [
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
     "CompleteText": "这条路有岩石巨人守卫！！！
 
-传说...他们是真的！！！
+传说…他们是真的！！！
 
 我得另想办法！！！
 
-那边有个山洞！！也许我应该去那里避难..",
+也许我应该去附近那个山洞避难..",
     "NextQuestTitle": "Part 3: Goblin Town",
     "QuestLocation": "The High Pass"
 }

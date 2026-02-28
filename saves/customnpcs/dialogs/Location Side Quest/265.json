@@ -25,7 +25,7 @@
     ],
     "NPCScale": 1.0f,
     "TextSound": "minecraft:random.wood_click",
-    "DialogSound": "lotr:elf.male.say",
+    "DialogSound": "dialog_voiceovers:Glorfindel 2",
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
@@ -60,7 +60,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": 73,
     "AvailabilityDialog2": 0,
@@ -69,7 +69,7 @@
     "TextWidth": 300,
     "DialogTitle": "Glorfindel 2",
     "PreviousBlocks": 1b,
-    "DialogText": "中洲有一个新的邪恶势力正在崛起... 我还不太确定具体是什么，但我能感觉到它的存在。
+    "DialogText": "中洲有一个新的邪恶势力正在崛起… 我还不太确定具体是什么，但我能感觉到它的存在。
 
 你必须帮助我完成一项特殊任务，夺回两位蓝袍巫师的法杖。它们被奥克偷走了。
 我不知道他们需要这些法杖做什么，因为他们并不聪明到足以使用它们。
@@ -92,7 +92,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690135732701L,
+        "TimePast": 1707536959129L,
         "Time": 0L,
         "Subject": ""
     }

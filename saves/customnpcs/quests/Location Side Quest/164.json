@@ -1,0 +1,62 @@
+{
+    "CompleterNpc": "",
+    "NextQuestId": 165,
+    "RandomReward": 0b,
+    "QuestRepeat": 1,
+    "QuestCompletion": 1,
+    "Title": "Barin's Corruption",
+    "Text": "I need to convince Barin somehow... at best without taking the stone with force.",
+    "QuestFactionPoints": {
+        "DecreaseFaction1Points": 0b,
+        "OptionFaction2Points": 100,
+        "OptionFactions1": -1,
+        "OptionFactions2": -1,
+        "OptionFaction1Points": 100,
+        "DecreaseFaction2Points": 0b
+    },
+    "RewardExp": 0,
+    "QuestCommand": "",
+    "QuestDialogs": [
+        {
+            "Integer": 563,
+            "Slot": 0
+        }
+    ],
+    "ModRev": 22,
+    "Type": 1,
+    "QuestMail": {
+        "Sender": "",
+        "BeenRead": 0b,
+        "Message": {
+        },
+        "MailItems": [
+        ],
+        "MailQuest": -1,
+        "TimePast": 1737368402561L,
+        "Time": 0L,
+        "Subject": ""
+    },
+    "Rewards": {
+        "NpcMiscInv": [
+            {
+                "Slot": 4b,
+                "id": "legendarium:silmaril_fire",
+                "Count": 1b,
+                "Damage": 0s
+            }
+        ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "I finally could convince Barin to give me the stone. Now I need to bring it back to Gildor Inglorion in Rivendell. Maybe he knows what to do next. There is still one Silmaril left.",
+    "NextQuestTitle": "Return to Gildor Inglorion"
+}

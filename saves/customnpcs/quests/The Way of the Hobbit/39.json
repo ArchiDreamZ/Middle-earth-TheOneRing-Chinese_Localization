@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Rose",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -19,7 +19,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -29,13 +29,24 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1668423381556L,
+        "TimePast": 1736556802116L,
         "Time": 0L,
         "Subject": ""
     },
     "Rewards": {
         "NpcMiscInv": [
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "CompleteText": "镇长就站在那里，看起来矮人们已经在和他争论了。
 我应该打听一下，看看他们发现了什么。",

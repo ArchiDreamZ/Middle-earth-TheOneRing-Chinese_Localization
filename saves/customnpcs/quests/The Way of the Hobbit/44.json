@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Radagast",
+    "CompleterNpc": "",
     "NextQuestId": -1,
     "RandomReward": 0b,
     "QuestRepeat": 1,
@@ -24,7 +24,7 @@
             "Slot": 0
         }
     ],
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 1,
     "QuestMail": {
         "Sender": "",
@@ -34,7 +34,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667425068700L,
+        "TimePast": 1722316479507L,
         "Time": 0L,
         "Subject": ""
     },
@@ -47,6 +47,17 @@
                 "Damage": 0s
             }
         ]
+    },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
     },
     "CompleteText": "支线任务完成：
 ",

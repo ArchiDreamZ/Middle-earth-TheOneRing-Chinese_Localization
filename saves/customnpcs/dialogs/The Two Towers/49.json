@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 78299 4 66272",
                 "Dialog": -1,
-                "Title": "是!",
+                "Title": "是！",
                 "DialogColor": 3341075,
                 "OptionType": 4
             }
@@ -17,7 +17,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "否!",
+                "Title": "否！",
                 "DialogColor": 16712449,
                 "OptionType": 0
             }

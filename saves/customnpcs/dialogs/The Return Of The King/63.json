@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "/tp @dp 77096 68 69486",
                 "Dialog": -1,
-                "Title": "再会!",
+                "Title": "再会！",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }

@@ -44,7 +44,7 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "求你了，不要跟他战斗，跟我来吧！(跟随者菜单)",
+                "Title": "跟我来！（跟随者菜单）",
                 "DialogColor": 124415,
                 "OptionType": 3
             }
@@ -54,7 +54,7 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "我想快速旅行到地图上的路径点。",
+                "Title": "我想快速旅行到地图上的一个路径点。",
                 "DialogColor": 15339254,
                 "OptionType": 4
             }
@@ -79,7 +79,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -88,18 +88,9 @@
     "TextWidth": 300,
     "DialogTitle": "gandalf moria6",
     "PreviousBlocks": 1b,
-    "DialogText": "不 @p ！
-这太危险了！
-在你逃离的时候，我会拖住它。
+    "DialogText": "好，我们一起对付他！得小心点，@p。
 
-“我乃秘火的仆人，驾驭阿诺尔之焰！
-黑暗之火必不助你，你这乌顿之焰！”
-
-它必不得通过！
-
-现在走！快点！
-
-快跑，你们这些傻瓜！！
+我们得牵制他一会儿，让护戒队从桥上冲过去！
 
 >>(你可以带上灰袍甘道夫作为同伴)<<",
     "AvailabilityQuest4Id": -1,
@@ -114,7 +105,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1689107685384L,
+        "TimePast": 1698483214680L,
         "Time": 0L,
         "Subject": ""
     }

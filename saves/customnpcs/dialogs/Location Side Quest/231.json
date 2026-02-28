@@ -25,6 +25,7 @@
     ],
     "NPCScale": 1.0f,
     "TextSound": "minecraft:random.wood_click",
+    "DialogSound": "dialog_voiceovers:Forsaken Inn Guard 4",
     "AvailabilityFactionId": -1,
     "AvailabilityFaction2Stance": 0,
     "DialogCommand": "",
@@ -59,7 +60,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 21,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -69,7 +70,10 @@
     "DialogTitle": "Guard 4",
     "PreviousBlocks": 1b,
     "DialogText": "哦，很高兴再次见到你。奥克们的袭击已经停止了！ 
-那意味着奥克指挥官已经死了！非常感谢你的帮助 @p ！现在这片区域又恢复和平了！这瓶啤酒就当是我的谢礼吧，现在我可以去喝酒了，不用再守卫了。再见！",
+那意味着奥克指挥官已经死了！非常感谢你的帮助 @p ！
+现在这片区域又恢复和平了！
+
+这瓶啤酒就当是我的谢礼吧，现在我可以去喝酒了，不用再守卫了。再见！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -82,7 +86,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690134460613L,
+        "TimePast": 1707536884729L,
         "Time": 0L,
         "Subject": ""
     }

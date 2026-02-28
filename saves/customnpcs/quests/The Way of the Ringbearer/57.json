@@ -1,14 +1,14 @@
 {
-    "CompleterNpc": "Gollum",
+    "CompleterNpc": "",
     "NextQuestId": 58,
     "RandomReward": 0b,
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 12: The Spider Shelob",
-    "Text": "咕噜把我带到了米那斯魔古尔的秘密通道。
+    "Text": "咕噜把我们带到了米那斯魔古尔的秘密通道。
 我不知道能不能相信他，但我别无选择。
 
->>(杀死蜘蛛希洛布，它在地道的出口处)<<",
+>>(杀死蜘蛛希洛布，她在通道的出口处)<<",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -19,14 +19,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 1,
-            "Slot": "Shelob"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -35,7 +30,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1668422388456L,
+        "TimePast": 1736556712216L,
         "Time": 0L,
         "Subject": ""
     },
@@ -43,13 +38,30 @@
         "NpcMiscInv": [
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 1,
+            "Slot": "Shelob"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "咕噜背叛了我们！
 这是一个陷阱，一只巨大的蜘蛛出现了！
 
 幸运的是，在一场艰苦的战斗后，我成功地击败了它。
 咕噜已经无影无踪。我应该迅速继续前进。
 
-但要越过古老的奇立斯乌苟之塔将会很困难。
-我应该先去那里看看！",
+但要越过古老的奇立斯乌苟之塔将会很困难。",
     "NextQuestTitle": "Part 13: Cirith Ungol"
 }

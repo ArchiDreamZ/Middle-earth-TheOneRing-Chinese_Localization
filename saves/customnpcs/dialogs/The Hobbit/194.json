@@ -1,63 +1,121 @@
 {
-    "DialogShowWheel": 0b,
     "AvailabilityQuestId": -1,
+    "DialogAlignment": 0b,
+    "DialogHideNPC": 0b,
+    "AvailabilityQuest2": 0,
+    "AvailabilityQuest3": 0,
+    "AvailabilityQuest4": 0,
+    "RenderGradual": 0b,
+    "OptionOffsetX": 0,
+    "OptionOffsetY": 0,
+    "OptionFactions1": -1,
+    "TextOffsetX": 0,
+    "OptionFactions2": -1,
+    "TextOffsetY": 0,
+    "AvailabilityFaction2Id": -1,
+    "TitlePos": 0,
+    "OptionFaction1Points": 100,
+    "TitleColor": 14737632,
+    "DialogDisableEsc": 0b,
+    "ShowOptionLine": 1b,
+    "AvailabilityFaction": 0,
+    "AvailabilityDialog": 0,
+    "AvailabilityFaction2": 0,
+    "Color": 14737632,
+    "Images": [
+    ],
+    "NPCScale": 1.0f,
+    "TextSound": "minecraft:random.wood_click",
+    "DialogSound": "lotr:dwarf.kill",
+    "AvailabilityFactionId": -1,
+    "AvailabilityFaction2Stance": 0,
+    "DialogCommand": "",
+    "TextPitch": 1.0f,
+    "AvailabilityDialogId": -1,
+    "OptionFaction2Points": 100,
+    "AvailabilityQuest3Id": -1,
+    "NPCOffsetY": 0,
+    "AvailabilityDialog3Id": -1,
+    "NPCOffsetX": 0,
+    "AvailabilityMinPlayerLevel": 0,
+    "DecreaseFaction2Points": 0b,
+    "DialogShowWheel": 0b,
     "Options": [
         {
             "OptionSlot": 0,
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
+                "Title": "跟我来！（跟随者菜单）",
+                "DialogColor": 1503475,
+                "OptionType": 3
+            }
+        },
+        {
+            "OptionSlot": 1,
+            "Option": {
+                "DialogCommand": "/give @dp 5171",
+                "Dialog": -1,
+                "Title": "我想快速旅行到地图上的一个路径点。",
+                "DialogColor": 15339254,
+                "OptionType": 4
+            }
+        },
+        {
+            "OptionSlot": 2,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": 494,
+                "Title": "给我唱首歌吧！",
+                "DialogColor": 16357130,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 3,
+            "Option": {
+                "DialogCommand": "",
+                "Dialog": -1,
                 "Title": "再会！",
-                "DialogColor": 16581634,
+                "DialogColor": 16388360,
                 "OptionType": 0
             }
         }
     ],
-    "DialogHideNPC": 0b,
+    "TextHeight": 400,
+    "OptionSpaceX": 0,
     "AvailabilityFactionStance": 0,
     "AvailabilityQuest": 0,
     "AvailabilityDialog4": 0,
     "AvailabilityDialog3": 0,
-    "AvailabilityQuest2": 0,
-    "AvailabilityQuest3": 0,
-    "AvailabilityQuest4": 0,
-    "ModRev": 16,
+    "OptionSpaceY": 0,
+    "TitleOffsetY": 0,
+    "TitleOffsetX": 0,
+    "ModRev": 22,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
-    "OptionFactions1": -1,
     "AvailabilityDayTime": 0,
-    "OptionFactions2": -1,
-    "AvailabilityFaction2Id": -1,
-    "OptionFaction1Points": 100,
-    "DialogDisableEsc": 0b,
-    "AvailabilityFaction": 0,
+    "DialogDarkScreen": 1b,
+    "TextWidth": 300,
     "DialogTitle": "Fili",
-    "AvailabilityDialog": 0,
-    "AvailabilityFaction2": 0,
-    "DialogSound": "lotr:dwarf.kill",
-    "AvailabilityFactionId": -1,
-    "AvailabilityFaction2Stance": 0,
-    "DialogCommand": "",
-    "AvailabilityDialogId": -1,
-    "OptionFaction2Points": 100,
-    "DialogText": "哈！很高兴在这里见到你， @p ！
+    "PreviousBlocks": 1b,
+    "DialogText": "哈！在这儿见到你真是太好了，@p！
 
-自从我们穿过通向半兽人镇的桥梁后，我就没见过你。希望你没少条胳膊或者腿。 
+自从我们穿过半兽人镇的桥梁后，就一直没见着你。希望你在那儿没出什么事，至少没少条胳膊或者腿什么的。 
 
-幸运的是，“换皮人”贝奥恩让我们在这里休息，并储备食物。
+幸运的是，“换皮人”贝奥恩让我们在这里歇脚，还补给了吃的。
 
-其他人可能已经走了。如果你见到我兄弟奇力，替我问候他！
-我们是梭林的侄子，将追随他到生命的尽头！
-",
+其他人大概都已经走了。你要是看见我弟弟奇力，替我问声好！
+我们是梭林的外甥，将追随他直至生命的尽头！
+
+要是你愿意，我可以跟你一起去。
+
+>>（你可以带上菲力作为同伴）<<",
     "AvailabilityQuest4Id": -1,
-    "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
-    "AvailabilityDialog3Id": -1,
     "AvailabilityDialog4Id": -1,
-    "AvailabilityMinPlayerLevel": 0,
-    "DecreaseFaction2Points": 0b,
     "DialogMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -66,7 +124,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1666459512699L,
+        "TimePast": 1720138736964L,
         "Time": 0L,
         "Subject": ""
     }

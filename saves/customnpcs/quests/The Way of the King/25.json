@@ -1,10 +1,10 @@
 {
-    "CompleterNpc": "Théoden",
-    "NextQuestId": -1,
+    "CompleterNpc": "",
+    "NextQuestId": 82,
     "RandomReward": 0b,
     "QuestRepeat": 1,
-    "QuestCompletion": 0,
-    "Title": "Part 4: The Wall",
+    "QuestCompletion": 1,
+    "Title": "Part 5: The Wall",
     "Text": "希奥顿让我在战斗中协助他！
 有消息说萨茹曼制造了秘密武器来摧毁城墙！
 
@@ -22,14 +22,9 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "QuestDialogs": [
-        {
-            "Value": 5,
-            "Slot": "Uruk with Torch"
-        }
-    ],
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 2,
+    "CustomTargetType": "",
     "QuestMail": {
         "Sender": "",
         "BeenRead": 0b,
@@ -38,7 +33,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1673376193467L,
+        "TimePast": 1722044670595L,
         "Time": 0L,
         "Subject": ""
     },
@@ -46,8 +41,26 @@
         "NpcMiscInv": [
         ]
     },
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "QuestKills": [
+        {
+            "Value": 5,
+            "Slot": "Uruk with Torch"
+        }
+    ],
+    "TargetType": 0,
     "CompleteText": "火炬手都死了，城墙暂时安全了！
 
 我应该跟希奥顿谈谈下一步的计划！",
-    "NextQuestTitle": ""
+    "NextQuestTitle": "Return to Theoden"
 }

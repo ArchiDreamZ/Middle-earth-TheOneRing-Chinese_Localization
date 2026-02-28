@@ -1,5 +1,5 @@
 {
-    "CompleterNpc": "Radagast",
+    "CompleterNpc": "",
     "NextQuestId": 43,
     "QuestLocation3": "",
     "RandomReward": 0b,
@@ -22,7 +22,7 @@
     },
     "RewardExp": 0,
     "QuestCommand": "",
-    "ModRev": 16,
+    "ModRev": 22,
     "Type": 3,
     "QuestMail": {
         "Sender": "",
@@ -32,7 +32,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1667424981000L,
+        "TimePast": 1722316385906L,
         "Time": 0L,
         "Subject": ""
     },
@@ -40,13 +40,27 @@
         "NpcMiscInv": [
         ]
     },
-    "CompleteText": "就是这里，多古尔都的古老堡垒。
-拉达加斯特说得没错...一个阴森恐怖的地方。
-我感受到一股黑暗力量。
-我得四处看看。
+    "PartyOptions": {
+        "AllowParty": 1b,
+        "MaxPartySize": 10,
+        "CompleteFor": 1,
+        "ExecuteCommand": 1,
+        "OnlyParty": 0b,
+        "ObjectiveRequirement": 0,
+        "PartyRequirements": 0,
+        "MinPartySize": 1,
+        "RewardControl": 1
+    },
+    "CompleteText": "找到了，这就是古老的堡垒多古尔都。
+拉达加斯特说得没错……真是个阴森的地方。
+我能感受到一股黑暗的力量。
+我该在四处查看一番。
 
-空气中弥漫着寒气，我感觉自己被监视着...
-真希望我能等到甘道夫...",
+空气中弥漫着寒意，我感觉自己正被监视着……
+真该等等甘道夫的……
+
+可是……那是……加拉德瑞尔夫人、埃尔隆德大人和萨茹曼？
+他们是来帮我的！我应该和他们谈谈，我们可以一起探查这个地方。",
     "NextQuestTitle": "Side Quest: The Necromancer",
     "QuestLocation": "Dol Guldur"
 }

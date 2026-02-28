@@ -1,5 +1,6 @@
 {
     "AvailabilityQuestId": -1,
+    "DialogAlignment": 0b,
     "DialogHideNPC": 0b,
     "AvailabilityQuest2": 0,
     "AvailabilityQuest3": 0,
@@ -44,9 +45,9 @@
             "Option": {
                 "DialogCommand": "/give",
                 "Dialog": -1,
-                "Title": "跟我来! (跟随者菜单)",
+                "Title": "跟我来！（跟随者菜单）",
                 "DialogColor": 124415,
-                "OptionType": 3
+                "OptionType": 2
             }
         },
         {
@@ -54,18 +55,28 @@
             "Option": {
                 "DialogCommand": "/give @dp 5171",
                 "Dialog": -1,
-                "Title": "我想快速旅行到地图上的路径点。",
+                "Title": "我想快速旅行到地图上的一个路径点。",
                 "DialogColor": 15339254,
-                "OptionType": 4
+                "OptionType": 2
             }
         },
         {
             "OptionSlot": 2,
             "Option": {
                 "DialogCommand": "",
+                "Dialog": 388,
+                "Title": "你真的是刚铎的继承者吗？",
+                "DialogColor": 16700674,
+                "OptionType": 1
+            }
+        },
+        {
+            "OptionSlot": 3,
+            "Option": {
+                "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "也许以后，再会!!",
-                "DialogColor": 16714241,
+                "Title": "再会！",
+                "DialogColor": 16717313,
                 "OptionType": 0
             }
         }
@@ -79,7 +90,7 @@
     "OptionSpaceY": 0,
     "TitleOffsetY": 0,
     "TitleOffsetX": 0,
-    "ModRev": 19,
+    "ModRev": 22,
     "DecreaseFaction1Points": 0b,
     "DialogQuest": -1,
     "AvailabilityDialog2": 0,
@@ -88,7 +99,7 @@
     "TextWidth": 300,
     "DialogTitle": "Aragorn follower",
     "PreviousBlocks": 1b,
-    "DialogText": "@p，很高兴看见你安全的在这里！
+    "DialogText": "@p，你平安无事，太好了！
 
 对于中洲的人民来说，现在是黑暗之时。
 
@@ -96,9 +107,7 @@
 
 你将迎接一段危险而漫长的旅程。你是中洲的未来， @p !
 
-我会陪伴你走到任何你想去的地方！我的剑听你调遣！
-
->>(你可以带上阿拉贡作为同伴)<<",
+我会陪伴你走到任何你想去的地方！我的剑听你调遣！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
@@ -111,7 +120,7 @@
         "MailItems": [
         ],
         "MailQuest": -1,
-        "TimePast": 1690136823504L,
+        "TimePast": 1735589578469L,
         "Time": 0L,
         "Subject": ""
     }
