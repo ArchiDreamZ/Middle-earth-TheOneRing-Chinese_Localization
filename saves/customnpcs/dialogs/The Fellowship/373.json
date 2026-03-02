@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 374,
-                "Title": "Yes!",
+                "Title": "是的！",
                 "DialogColor": 3733019,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "No!",
+                "Title": "不行！",
                 "DialogColor": 16391432,
                 "OptionType": 0
             }
@@ -79,9 +79,9 @@
     "TextWidth": 300,
     "DialogTitle": "Frodo alignment 2",
     "PreviousBlocks": 1b,
-    "DialogText": "Set ANGMAR alignment to -100
+    "DialogText": "将安格玛结盟值设置为 -100（将自动设置）
 
->>Are you sure?<<",
+>>你确定吗？<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

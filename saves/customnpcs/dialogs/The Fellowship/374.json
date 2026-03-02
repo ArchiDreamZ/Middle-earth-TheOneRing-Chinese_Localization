@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 375,
-                "Title": "Yes!",
+                "Title": "是的！",
                 "DialogColor": 4914186,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "No!",
+                "Title": "不行！",
                 "DialogColor": 16456454,
                 "OptionType": 0
             }
@@ -79,9 +79,9 @@
     "TextWidth": 300,
     "DialogTitle": "Frodo alignment 3",
     "PreviousBlocks": 1b,
-    "DialogText": "Set DOL_GULDUR alignment to -100
+    "DialogText": "将多古尔都结盟值设置为 -100（将自动设置）
 
->>Are you sure?<<",
+>>你确定吗？<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

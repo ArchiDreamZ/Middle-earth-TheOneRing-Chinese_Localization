@@ -7,7 +7,7 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Find Bagend",
-    "Text": "I woke up in a place called the Shire, the Hobbits living here seem very friendly to me. But it also seems some trouble is alone the way, rumors about a Ring are in the air.",
+    "Text": "我在一个叫夏尔的地方醒来，这里的霍比特人对我似乎很友善。但一路上似乎也不太对劲，四处都在流传着关于一枚戒指的传闻。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -47,7 +47,7 @@
         "MinPartySize": 1,
         "RewardControl": 1
     },
-    "CompleteText": "I found Bagend. I should go inside and check out what happend.",
+    "CompleteText": "我找到袋底洞了。我该进去瞧瞧发生了什么事。",
     "NextQuestTitle": "",
     "QuestLocation": "Bagend"
 }

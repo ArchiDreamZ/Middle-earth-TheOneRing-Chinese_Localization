@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 379,
-                "Title": "Interesting. Thanks, I will go to Hobbiton.",
+                "Title": "有意思。谢谢，我会去一趟霍比屯。",
                 "DialogColor": 523558,
                 "OptionType": 1
             }
@@ -79,12 +79,12 @@
     "TextWidth": 300,
     "DialogTitle": "Frodo intro quest 1",
     "PreviousBlocks": 1b,
-    "DialogText": "Today is my uncle Bilbo's 111th birthday party. 
-But while he was giving his speech, something strange happened. 
-He just disappeared...
+    "DialogText": "今天是我舅舅比尔博的一百一十一岁生日宴会。
+可他正在致辞的时候，怪事发生了…
+他就这么凭空消失了……
 
-And that in front of all the guests. You can imagine how confused everyone was.
-Can you go to the Hobbiton and find out what happened?",
+还是当着所有宾客的面，你能想象当时大伙儿有多懵吗？
+你能不能去一趟霍比屯，查看到底出了什么事？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

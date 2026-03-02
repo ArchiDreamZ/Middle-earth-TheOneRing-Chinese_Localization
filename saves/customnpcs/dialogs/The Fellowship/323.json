@@ -46,7 +46,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 324,
-                "Title": "Yes!",
+                "Title": "是的！",
                 "DialogColor": 3145231,
                 "OptionType": 1
             }
@@ -56,7 +56,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 76,
-                "Title": "No!",
+                "Title": "不行！",
                 "DialogColor": 16583682,
                 "OptionType": 1
             }
@@ -66,7 +66,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 325,
-                "Title": "Start the Questline without alignment.",
+                "Title": "不设置结盟值，直接开始任务线。",
                 "DialogColor": 454139,
                 "OptionType": 1
             }
@@ -76,7 +76,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16714241,
                 "OptionType": 2
             }
@@ -100,19 +100,18 @@
     "TextWidth": 300,
     "DialogTitle": "Frodo 3.5",
     "PreviousBlocks": 1b,
-    "DialogText": "!!! The following settings will set your 
-faction alignment for the campaign!!!
+    "DialogText": "！！以下设置将设定你在
+战役中的派系结盟值！！
 
-It will give you positive Shire alignment 
-and negative to all the evil factions.
+这将使你获得正的夏尔结盟值，
+并与所有邪恶派系的结盟值变为负的。
 
-It's optional, but recommended to do 
-the following steps when playing the 
-world for the first time.
+此项设置可选，但首次游玩本世界时，
+建议完成下面的步骤。
 ----------------------------------------
-Set HOBBIT alignment to +50
+将夏尔结盟值设置为 +50（将自动设置）
 
->>Are you sure?<<",
+>>你确定吗？<<",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

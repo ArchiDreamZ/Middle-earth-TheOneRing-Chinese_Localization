@@ -46,7 +46,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 14487044,
                 "OptionType": 0
             }
@@ -70,11 +70,11 @@
     "TextWidth": 300,
     "DialogTitle": "Lobelia6",
     "PreviousBlocks": 1b,
-    "DialogText": "I told you he disappeared during the speech. 
+    "DialogText": "我告诉过你了，他在致辞的时候消失了。
 
-You can check his home. Bagend is close to the big party tree. Just follow the path. 
+你可以去他家看看。袋底洞就在那棵大集会树旁边，顺着小路走就是。
 
-And now, get out of here!!",
+好了，快去吧！！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

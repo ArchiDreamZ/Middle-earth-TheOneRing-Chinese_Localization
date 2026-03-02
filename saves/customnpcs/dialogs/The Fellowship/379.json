@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16518661,
                 "OptionType": 0
             }
@@ -69,9 +69,9 @@
     "TextWidth": 300,
     "DialogTitle": "Frodo intro quest 2",
     "PreviousBlocks": 1b,
-    "DialogText": "Just follow this road, it will take you to Hobbiton. 
-Look out for the big party tree. On the hill near to it, you will find Bagend, my home. 
-Thanks @p! And good luck on your journey!",
+    "DialogText": "顺着这条路走，就能到霍比屯。
+看到那棵巨大的集会树了吗，树旁边的小山上就是袋底洞，我的家。
+谢谢你，@p！祝你一路顺风！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

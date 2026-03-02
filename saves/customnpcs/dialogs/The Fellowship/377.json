@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 325,
-                "Title": "Start Quest: The Way Of The Ringbearer!",
+                "Title": "开始任务：持戒人之路！",
                 "DialogColor": 454139,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16714241,
                 "OptionType": 0
             }
@@ -79,7 +79,7 @@
     "TextWidth": 300,
     "DialogTitle": "Frodo alignment finish",
     "PreviousBlocks": 1b,
-    "DialogText": "All the alignment have been set. You can now start the Quest-line.",
+    "DialogText": "所有结盟值已设置完成。你现在可以开始任务线了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
