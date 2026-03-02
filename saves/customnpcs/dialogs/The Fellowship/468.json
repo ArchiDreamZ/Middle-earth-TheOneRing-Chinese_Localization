@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 588,
-                "Title": "Sure, what's the matter?",
+                "Title": "当然，是什么事？",
                 "DialogColor": 16760833,
                 "OptionType": 1
             }
@@ -79,9 +79,9 @@
     "TextWidth": 300,
     "DialogTitle": "Bilbo bagend4",
     "PreviousBlocks": 1b,
-    "DialogText": "You're just in time by the way @p, Gandalf wants to talk to you too. It's probably about my old magic ring, we just had an argument about that.
+    "DialogText": "你来得正好，@p，甘道夫也想找你谈谈。八成是说我那枚旧魔法戒指的事儿，我们刚才还为这个吵了一架呢。
 
-If you have some time to spare, I would like to speak to you about a personal matter. Are you interested?",
+要是你有空的话，我也有点私事想跟你聊聊。有兴趣吗？",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

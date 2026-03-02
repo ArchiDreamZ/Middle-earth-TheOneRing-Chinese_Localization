@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 466,
-                "Title": "Hello, I'm @p! I'm here to help.",
+                "Title": "你好，我是@p！我是来帮忙的。",
                 "DialogColor": 14332935,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 597,
-                "Title": "[New] It's me, I have the signed ownership deed.",
+                "Title": "[新] 是我，我有签过字的袋底洞房契。",
                 "DialogColor": 3210257,
                 "OptionType": 1
             }
@@ -65,7 +65,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 16583682,
                 "OptionType": 0
             }
@@ -89,7 +89,7 @@
     "TextWidth": 300,
     "DialogTitle": "Bilbo bagend",
     "PreviousBlocks": 1b,
-    "DialogText": "Who's there? Who disturbs? I told you Bag End isn't for sale!!",
+    "DialogText": "谁在那里？是谁来打扰我？我说过袋底洞不卖！！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

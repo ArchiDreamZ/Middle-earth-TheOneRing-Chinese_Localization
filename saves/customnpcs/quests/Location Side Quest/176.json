@@ -7,7 +7,7 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Clues to the Ownership Letter 2",
-    "Text": "Bilbo says he last had the deed when talking with the Mayor of Michel Delving, who wanted it signed. I must travel to it in the west Shire.",
+    "Text": "比尔博说他最后一次见到房契，是跟大洞镇的市长谈话的时候，市长要签字。我必须去夏尔西边的大洞镇一趟。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -47,7 +47,7 @@
         "MinPartySize": 1,
         "RewardControl": 1
     },
-    "CompleteText": "I found the Mayor, it looks like there also is a huge fishing event going on. But Im here for the Ownership letter of Bag End.",
+    "CompleteText": "我找到市长了，看样子这儿还在举办一场钓鱼盛会。不过我是来取袋底洞房契的。",
     "NextQuestTitle": "The Ownership of Bag End",
     "QuestLocation": "Michel Delving"
 }

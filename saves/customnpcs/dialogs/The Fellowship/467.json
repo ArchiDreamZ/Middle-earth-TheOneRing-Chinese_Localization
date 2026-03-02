@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 468,
-                "Title": "How can I help?",
+                "Title": "我能帮什么忙吗？",
                 "DialogColor": 14332935,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 15206151,
                 "OptionType": 0
             }
@@ -79,10 +79,10 @@
     "TextWidth": 300,
     "DialogTitle": "Bilbo bagend3",
     "PreviousBlocks": 1b,
-    "DialogText": "Yes! Today is my 111th birthday! You should come and see the party. I left a little earlier...
+    "DialogText": "是啊！今天是我一百一十一岁生日！你真该来看看这场宴会。我先走一步……
 
-I'm old @p. You can't tell but I can feel it. I feel very thin... like butter spread on too much bread..
-Something has to change... I want to see mountains again! I think it's time for one last adventure.",
+我老了，@p。我看起来不老，但是我内心深处开始感觉我老了。我感觉极其单薄……仿佛被拉开抻长了…就像奶油摸了太大一块面包……
+该做出改变了……我要再去看看大山！我想，是时候再来最后一次冒险了。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

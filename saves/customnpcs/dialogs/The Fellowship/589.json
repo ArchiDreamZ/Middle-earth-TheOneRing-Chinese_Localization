@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 590,
-                "Title": "Where do I have to look first? (Quest Start)",
+                "Title": "我先该去哪儿找？（任务开始）",
                 "DialogColor": 1768729,
                 "OptionType": 1
             }
@@ -79,11 +79,11 @@
     "TextWidth": 300,
     "DialogTitle": "Bilbo bagend7",
     "PreviousBlocks": 1b,
-    "DialogText": "Bag End, ah yes. Built by my father, Bungo Baggins, with the money of my dear mother, Belladonna Took. Finest hole in all Hobbiton, if you ask me! 
+    "DialogText": "袋底洞，是啊。这是我父亲邦果·巴金斯用我亲爱的母亲贝拉多娜·图克的嫁妆建起来的。要我说，这是整个霍比屯最好的洞府！
 
-Im not the only one thinking this way, when I did came back from my adventure with Gandalf and the dwarves, I found the whole village had assumed I was dead! They were auctioning off my silver spoons and furniture. Hah! The Sackville-Bagginses were especially sour at my return. Lobelia Sackville-Baggins has wanted it for years, you know. 
+不光我这么想。当年我和甘道夫还有那些矮人冒险回来，发现全村人都以为我死了！他们正在拍卖我的银勺子和家具呢。哈！萨克维尔-巴金斯那家人看我回来，脸色别提多难看了。你知道，洛比莉亚·萨克维尔-巴金斯惦记这房子好多年了。
 
-I can't let that happen. But Bag End is more than just bricks and timber! It’s home, and it should stay in trusted hands, like yours @.",
+我可不能让这种事发生。但袋底洞不光是些砖瓦木料！这是家，得交到可靠的人手里，比如像你这样的，@。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

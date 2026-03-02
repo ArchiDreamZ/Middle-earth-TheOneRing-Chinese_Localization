@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 590,
-                "Title": "Where do I have to look first? (Quest Start)",
+                "Title": "我先该去哪儿找？（任务开始）",
                 "DialogColor": 3076653,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 589,
-                "Title": "Tell me more about Bag End.",
+                "Title": "告诉我更多关于袋底洞的事。",
                 "DialogColor": 16364810,
                 "OptionType": 1
             }
@@ -89,9 +89,9 @@
     "TextWidth": 300,
     "DialogTitle": "Bilbo bagend6",
     "PreviousBlocks": 1b,
-    "DialogText": "I’ve been doing a bit of packing. I’m leaving on… one last adventure, to the elves, yes... 
+    "DialogText": "我一直在收拾行李。我打算离开……去最后一次冒险，去精灵那儿，没错……
 
-But Bag End must be kept in good hands, and I can’t think of anyone better than you. I’ve left the key and the ownership letter somewhere safe, perhaps a little too safe. Would you fetch them for me? My memory isn’t quite what it used to be. You’ll need both before the Sackville-Bagginses start poking about.",
+可是袋底洞得有个可靠的人照看，我想来想去，没有比你更合适的了。钥匙和房契我藏在个稳妥的地方了，说不定藏得太稳妥了点……你能帮我去取来吗？我这记性不像从前喽。得赶在萨克维尔-巴金斯家的人到处翻找之前，把这两样东西拿到手。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

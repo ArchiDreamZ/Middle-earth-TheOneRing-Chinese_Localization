@@ -7,7 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Keys to the Hill 2",
-    "Text": "I found an interesting book about a possible riddle Bilbo spoke of. Maybe they could lead me to the key.",
+    "Text": "我发现了一本有意思的书，里面可能有比尔博提起的那个谜语。说不定这些线索能帮我找到钥匙。
+（提示：在从后门开始向北走，东边的第二个房间，长桌后面的活板门下面。）",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -53,7 +54,7 @@
         "MinPartySize": 1,
         "RewardControl": 1
     },
-    "CompleteText": "I found the secret room with the key and should return to Bilbo.",
+    "CompleteText": "我找到那个藏着钥匙的密室了，该回去找比尔博了。",
     "NextQuestTitle": "Clues to the Ownership Letter",
     "QuestLocation": "Key of Bagend"
 }

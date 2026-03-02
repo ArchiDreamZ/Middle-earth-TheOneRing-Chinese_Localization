@@ -7,7 +7,7 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Keys to the Hill",
-    "Text": "Bilbo is preparing to leave the Shire and has asked me to collect the items that prove the ownership of Bag End: the Key and the Ownership Letter. He hid the key somewhere inside Bag End. I need to watch out for clues.",
+    "Text": "比尔博准备离开夏尔，他托我取回能证明袋底洞归属的东西：钥匙和房契。他把钥匙藏在袋底洞的某个地方了，我得留意线索。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -88,7 +88,8 @@ Where board and carpet quiet meet."
         "MinPartySize": 1,
         "RewardControl": 1
     },
-    "CompleteText": "I found an interesting book about a possible riddle Bilbo spoke of. Maybe they could lead me to the key.",
+    "CompleteText": "我发现了一本有意思的书，里面可能有比尔博提起的那个谜语。说不定这些线索能帮我找到钥匙。
+（提示：在从后门开始向北走，东边的第二个房间，长桌后面的活板门下面。）",
     "NextQuestTitle": "Key to the Hill 2",
     "QuestLocation": "Clue to the Key"
 }

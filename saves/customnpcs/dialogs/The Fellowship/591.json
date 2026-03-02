@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright, I will go there. Goodbye!",
+                "Title": "好的，我这就去。再会！",
                 "DialogColor": 16647170,
                 "OptionType": 0
             }
@@ -69,11 +69,11 @@
     "TextWidth": 300,
     "DialogTitle": "Return to Bilbo",
     "PreviousBlocks": 1b,
-    "DialogText": "Ah! You’ve found it! Splendid, @p my lad, the very Key of Bag End. I knew you would find it. A clever hobbit, that’s what you are. 
+    "DialogText": "啊！你找到了！太好了，@p 我的好伙计，这正是袋底洞的钥匙。我就知道你能找到，真是个机灵的霍比特人。
 
-Now… let me think. The letter of ownership, yes, you’ll be needing that too. Where did I put it…? 
+那么……让我想想。房契，对了，那个你也得拿着。我把它放哪儿去了……？
 
-Ah! Of course. I gave it to the Mayor in Michel Delving for signing, all proper and official. You’d best go see him before Lobelia catches wind of it. She’s been sniffing about like a cat at the pantry door.",
+啊！想起来了。我把它交给大洞镇的市长签字去了，正正规规、官方手续。你最好趁洛比莉亚还没闻到风声赶紧去一趟。那女人这些天就跟厨房门口转悠的猫似的，一直在周围嗅来嗅去。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

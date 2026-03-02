@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 469,
-                "Title": "Lobelia stole your plates. (Quest finish)",
+                "Title": "洛比莉亚把你的盘子偷走了。（任务结束）",
                 "DialogColor": 4977414,
                 "OptionType": 1
             }
@@ -55,7 +55,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 467,
-                "Title": "Is the party for you? Happy Birthday!",
+                "Title": "宴会是为您办的吗？生日快乐！",
                 "DialogColor": 14332935,
                 "OptionType": 1
             }
@@ -65,7 +65,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Goodbye!",
+                "Title": "再会！",
                 "DialogColor": 15206151,
                 "OptionType": 0
             }
@@ -89,9 +89,9 @@
     "TextWidth": 300,
     "DialogTitle": "Bilbo bagend2",
     "PreviousBlocks": 1b,
-    "DialogText": "Oh greetings, come in and take some food, you are very welcome!
+    "DialogText": "哦，是你啊，快进来，随便吃点东西，欢迎欢迎！
 
-I thought it was Lobelia or other relatives.",
+我还以为是洛比莉亚或者其他亲戚呢。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
