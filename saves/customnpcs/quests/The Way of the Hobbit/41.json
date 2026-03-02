@@ -51,7 +51,8 @@
         "MinPartySize": 1,
         "RewardControl": 1
     },
-    "CompleteText": "这里就是甘道夫说的瀑布。我应该和埃尔隆德大人谈谈，也许他知道地图的内容。",
+    "CompleteText": "这里就是甘道夫说的瀑布。
+我应该和埃尔隆德大人谈谈，也许他知道地图的内容。",
     "NextQuestTitle": "",
     "QuestLocation": "Waterfall"
 }

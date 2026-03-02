@@ -7,7 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Keys to the Hill 2",
-    "Text": "我发现了一本有意思的书，里面可能有比尔博提起的那个谜语。说不定这些线索能帮我找到钥匙。
+    "Text": "我发现了一本有意思的书，里面可能有比尔博提起的那个谜语。
+说不定这些线索能帮我找到钥匙。
 （提示：在从后门开始向北走，东边的第二个房间，长桌后面的活板门下面。）",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,

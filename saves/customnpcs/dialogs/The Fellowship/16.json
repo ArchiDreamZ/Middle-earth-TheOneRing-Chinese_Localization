@@ -90,7 +90,8 @@
     "TextWidth": 300,
     "DialogTitle": "Galadriel(Quest)",
     "PreviousBlocks": 1b,
-    "DialogText": "{你俯身朝水镜中瞧去，看到一幅扭曲的画面，那是被夷平的夏尔郡熊熊燃烧的景象。}
+    "DialogText": "{你俯身朝水镜中瞧去，看到一幅扭曲的画面，
+那是被夷平的夏尔在熊熊燃烧的景象。}
 
 ",
     "AvailabilityQuest4Id": -1,

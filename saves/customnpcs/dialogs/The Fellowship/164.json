@@ -41,7 +41,9 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "你们要保重！我就坚守在这里，从这里我可以清楚看到那座旧的瞭望塔！
+    "DialogText": "你们要保重！我就坚守在这里，
+从这里我可以清楚看到那座旧的瞭望塔！
+
 继续前行，我看到阿拉贡也朝那个方向跑去了！
 快点！趁现在还来得及！",
     "AvailabilityQuest4Id": -1,

@@ -7,7 +7,9 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 5: The Skin-Changer",
-    "Text": "在我开始穿越黑森林的漫长旅程之前，我需要食物和住所！我希望贝奥恩能有所帮助… 有些时候，熊是不可预测的！",
+    "Text": "在我开始穿越黑森林的漫长旅程之前，我需要食物和住所！
+我希望贝奥恩能有所帮助…
+有些时候，熊是不可预测的！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -47,7 +49,8 @@
         "MinPartySize": 1,
         "RewardControl": 1
     },
-    "CompleteText": "找到了！贝奥恩的厅堂。但我看不到一个人影，唯有一头面带怒色的熊正在看守着大门…
+    "CompleteText": "找到了！贝奥恩的厅堂。
+但我看不到一个人影，唯有一头面带怒色的熊正在看守着大门…
 
 我得悄悄溜过去才行，跟它打起来恐怕不是个好主意。",
     "NextQuestTitle": "",

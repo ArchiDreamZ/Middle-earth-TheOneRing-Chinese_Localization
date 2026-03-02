@@ -50,10 +50,13 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "都死了，腐烂了。精灵、人类和半兽人。多年前的一场大战。
-死亡沼泽， 是啊，那就是它的名字。走这边来，要避开火光。
-我们必须往东走，去伊希利恩的路口。咕噜 咕噜。.
-",
+    "DialogText": "全都死了，全都烂了。
+精灵、人类和奥克。很久以前有一场大战。
+
+死亡沼泽。
+是的，是的，那就是它们的名字。
+这边来，不要跟着光亮走。
+我们必须往东走，去伊希利恩的路口。咕噜 咕噜！",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest3Id": -1,
     "AvailabilityQuest2Id": -1,

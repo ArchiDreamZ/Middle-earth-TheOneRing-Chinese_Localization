@@ -79,10 +79,12 @@
     "DialogTitle": "Aragorn wetter",
     "PreviousBlocks": 1b,
     "DialogText": "这里曾是阿蒙苏尔的伟大望塔..
-风云顶，是风云丘陵的南峰，也是阿塞丹、卡多蓝和鲁道尔三个王国的交界处。
+风云顶，是风云丘陵的南峰，
+也是阿塞丹、卡多蓝和鲁道尔三个王国的交界处。
 
 站在山顶上，你可以俯瞰四面八方，甚至能看到迷雾山脉。
-现在这里是一片废墟和一个令人毛骨悚然的地方，但它可能会在晚上为你提供庇护。",
+现在这里是一片废墟和一个令人毛骨悚然的地方，
+但它可能会在晚上为你提供庇护。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

@@ -7,7 +7,9 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Keys to the Hill",
-    "Text": "比尔博准备离开夏尔，他托我取回能证明袋底洞归属的东西：钥匙和房契。他把钥匙藏在袋底洞的某个地方了，我得留意线索。",
+    "Text": "比尔博准备离开夏尔，他托我取回能证明袋底洞归属的东西：
+钥匙和房契。
+他把钥匙藏在袋底洞的某个地方了，我得留意线索。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -88,7 +90,8 @@ Where board and carpet quiet meet."
         "MinPartySize": 1,
         "RewardControl": 1
     },
-    "CompleteText": "我发现了一本有意思的书，里面可能有比尔博提起的那个谜语。说不定这些线索能帮我找到钥匙。
+    "CompleteText": "我发现了一本有意思的书，里面可能有比尔博提起的那个谜语。
+说不定这些线索能帮我找到钥匙。
 （提示：在从后门开始向北走，东边的第二个房间，长桌后面的活板门下面。）",
     "NextQuestTitle": "Key to the Hill 2",
     "QuestLocation": "Clue to the Key"

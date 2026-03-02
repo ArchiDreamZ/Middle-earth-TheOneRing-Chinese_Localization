@@ -79,7 +79,8 @@
     "TextWidth": 300,
     "DialogTitle": "Bilbo bagend4",
     "PreviousBlocks": 1b,
-    "DialogText": "你来得正好，@p，甘道夫也想找你谈谈。八成是说我那枚旧魔法戒指的事儿，我们刚才还为这个吵了一架呢。
+    "DialogText": "你来得正好，@p，甘道夫也想找你谈谈。
+八成是说我那枚旧魔法戒指的事儿，我们刚才还为这个吵了一架呢。
 
 要是你有空的话，我也有点私事想跟你聊聊。有兴趣吗？",
     "AvailabilityQuest4Id": -1,

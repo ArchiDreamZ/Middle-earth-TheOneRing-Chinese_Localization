@@ -78,14 +78,16 @@
     "TextWidth": 300,
     "DialogTitle": "gandalf moria1",
     "PreviousBlocks": 1b,
-    "DialogText": "“Ando Eldarinwa…a lasta quettanya, Fenda Casarinwa…”（此地开启，精灵之门…听我此言，矮人门径…）
+    "DialogText": "“Ando Eldarinwa…a lasta quettanya, Fenda Casarinwa…”
+（此地开启，精灵之门…听我此言，矮人门径…）
 
 就是这里， @p
 通往矮人王国墨瑞亚的大门。
 由于萨茹曼的咒语，穿越卡拉兹拉斯隘口是不可能的。
 
 所以我们必须取道山内… 一段漫长而危险的旅程…
-矮人过于贪心，开掘太深…他们在卡扎督姆的黑暗中唤醒了…魔影与烈焰…",
+矮人过于贪心，开掘太深…
+他们在卡扎督姆的黑暗中唤醒了…魔影与烈焰…",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,

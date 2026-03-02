@@ -7,7 +7,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": 95,
-                "Title": "等等！！！离远点！ - 一只盒子没有铰链、没有销子也没有盖， 但金色宝藏却能安安心心在里面藏起来。！",
+                "Title": "等等！！！离远点！ - 一只盒子没有铰链、没有销子也没有盖，但金色宝藏却能安安心心在里面藏起来！",
                 "DialogColor": 15262472,
                 "OptionType": 1
             }
@@ -41,7 +41,7 @@
     "DialogCommand": "",
     "AvailabilityDialogId": -1,
     "OptionFaction2Points": 100,
-    "DialogText": "嗯．．非常聪明， @p ... 叽阿！！！
+    "DialogText": "嗯…非常聪明， @p …叽阿！！！
 
 {咕噜危险地靠近了过来！}
 

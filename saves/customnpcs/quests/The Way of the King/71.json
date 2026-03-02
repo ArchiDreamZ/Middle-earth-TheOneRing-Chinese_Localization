@@ -7,7 +7,8 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 12: Pelennor Field Battle",
-    "Text": "我得注意寻找希奥顿和洛希尔人，他们在与魔多奥克的战斗中需要我的帮助！
+    "Text": "我得注意寻找希奥顿和洛希尔人，
+他们在与魔多奥克的战斗中需要我的帮助！
 希望还来得及！",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
@@ -48,7 +49,8 @@
         "MinPartySize": 1,
         "RewardControl": 1
     },
-    "CompleteText": "哦，不！ ！他在那里，他已经受伤了，我应该跟他和伊奥温谈谈。
+    "CompleteText": "哦，不！ ！他在那里，
+他已经受伤了，我应该跟他和伊奥温谈谈。
 ",
     "NextQuestTitle": "",
     "QuestLocation": "Theoden"

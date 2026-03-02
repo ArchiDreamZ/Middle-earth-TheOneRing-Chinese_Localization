@@ -6,7 +6,10 @@
     "QuestCompletion": 1,
     "IgnoreNBT": 1b,
     "Title": "Harlindon and Ost-In-Edhil",
-    "Text": "幽谷的格罗芬德尔交给我一个任务，让我去拜访哈林顿和欧斯特-因-埃第尔，这两个地方都是精灵的遗迹。顺便看看那两个蓝袍巫师失窃的魔杖是否在那里。一旦找到，我就把它们带回给格罗芬德尔。",
+    "Text": "幽谷的格罗芬德尔交给我一个任务，
+让我去拜访哈林顿和欧斯特-因-埃第尔，这两个地方都是精灵的遗迹。
+顺便看看那两个蓝袍巫师失窃的魔杖是否在那里。
+一旦找到，我就把它们带回给格罗芬德尔。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,

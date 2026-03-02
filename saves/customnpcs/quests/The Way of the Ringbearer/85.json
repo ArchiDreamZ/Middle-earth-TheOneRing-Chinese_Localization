@@ -7,7 +7,11 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Find Bagend",
-    "Text": "我在一个叫夏尔的地方醒来，这里的霍比特人对我似乎很友善。但一路上似乎也不太对劲，四处都在流传着关于一枚戒指的传闻。",
+    "Text": "我在一个叫夏尔的地方醒来，
+这里的霍比特人对我似乎很友善。
+
+但一路上似乎也不太对劲，
+四处都在流传着关于一枚戒指的传闻。",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,

@@ -7,8 +7,11 @@
     "QuestRepeat": 1,
     "QuestCompletion": 1,
     "Title": "Part 7: Amon Hen",
-    "Text": "我沿着海岸一直走到一个小营地，但那里没有同伴，只有乌鲁克。
-我应该杀出一条血路。波洛米尔孤身一人，他需要我们的帮助！也许现在还不算太晚..",
+    "Text": "我沿着海岸一直走到一个小营地，
+但那里没有同伴，只有乌鲁克。
+
+我应该杀出一条血路。波洛米尔孤身一人，
+他需要我们的帮助！也许现在还不算太晚..",
     "QuestFactionPoints": {
         "DecreaseFaction1Points": 0b,
         "OptionFaction2Points": 100,
@@ -52,7 +55,8 @@
 我应该沿着这条路走下去。
 
 (刚铎的号角声在远处响起！)
-波洛米尔一定在这里的某个地方，我听到远处传来他的号角声。",
+波洛米尔一定在这里的某个地方，
+我听到远处传来他的号角声。",
     "NextQuestTitle": "",
     "QuestLocation": "Amon Hen"
 }
