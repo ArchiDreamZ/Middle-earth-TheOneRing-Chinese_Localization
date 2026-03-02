@@ -45,7 +45,7 @@
             "Option": {
                 "DialogCommand": "",
                 "Dialog": -1,
-                "Title": "Alright. Goodbye!",
+                "Title": "好的，再会！",
                 "DialogColor": 16647170,
                 "OptionType": 0
             }
@@ -69,7 +69,7 @@
     "TextWidth": 300,
     "DialogTitle": "Bilbo bagend8 quest",
     "PreviousBlocks": 1b,
-    "DialogText": "Thats brilliant! I know that the key is somewhere here in the rooms. I even wrote the riddle to it down, but with all the letters and maps its hard to find that as well. Promise me once you own it, to clean it more often. Come back to once you find it, I will look out for the ownership letter in the mean time.",
+    "DialogText": "太好了！我知道钥匙就在这屋里某个地方。我甚至把藏钥匙的地方编成谜语写下来了，可这儿到处都是信和地图，那张纸条也不好找。答应我，等你拿到房子以后，可得经常打扫它呀。找到钥匙就回来找我，我这会儿也去翻翻那张房契。",
     "AvailabilityQuest4Id": -1,
     "AvailabilityQuest2Id": -1,
     "AvailabilityDialog2Id": -1,
